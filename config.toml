@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "CAMGDP: Central Asia and Mongolia Gender Data Portal"
 
 # Language settings
 contentDir = "content/en"
@@ -67,13 +67,13 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "CAMGDP"
+description = "Central Asia and Mongolia Gender Data Portal"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.no]
-title = "Goldydocs"
+title = "CAMGDP"
 description = "Docsy er operativsystem for skyen"
 languageName ="Norsk"
 contentDir = "content/no"
@@ -81,7 +81,7 @@ time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
 
 [languages.fa]
-title = "اسناد گلدی"
+title = "CAMGDP"
 description = "یک نمونه برای پوسته داکسی"
 languageName ="فارسی"
 contentDir = "content/fa"
