@@ -61,7 +61,7 @@ anchor = "smart"
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-00000000-0"
+# id = "UA-00000000-0"
 
 # Language configuration
 
@@ -70,8 +70,12 @@ id = "UA-00000000-0"
 title = "CAMGDP"
 description = "Central Asia and Mongolia Gender Data Portal"
 languageName ="English"
+contentDir = "content/en"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
 # Weight used for sorting.
 weight = 1
+
 [languages.no]
 title = "CAMGDP"
 description = "Docsy er operativsystem for skyen"
@@ -85,6 +89,22 @@ title = "CAMGDP"
 description = "یک نمونه برای پوسته داکسی"
 languageName ="فارسی"
 contentDir = "content/fa"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
+
+[languages.ru]
+title = "CAMGDP"
+description = "Портал гендерных данных Центральной Азии и Монголии"
+languageName = "Русский"
+contentDir = "content/ru"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
+
+[languages.kk]
+title = "CAMGDP"
+description = "Орталық Азия мен Моңғолия гендерлік зерттеулер порталы"
+languageName ="Қазақша"
+contentDir = "content/kk"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
@@ -105,7 +125,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Ryan Womack and Aizada Arystanbek"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
