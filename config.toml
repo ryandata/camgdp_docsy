@@ -212,7 +212,7 @@ enable = false
   icon = "fab fa-github"
   desc = "content repository for CAMGDP"
 [[params.links.developer]]
-  name = "Slack"
+  name = "Website"
   url = "https://example.org/slack"
   icon = "fas fa-globe"
   desc = "Chat with other project developers"
