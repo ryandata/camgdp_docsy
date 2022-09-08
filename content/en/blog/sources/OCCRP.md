@@ -1,0 +1,14 @@
+﻿---
+title: "OCCRP"
+linkTitle: "OCCRP"
+date: 2022-07-27
+countries: ["Kazakhstan"]
+category: ["INGO"]
+tags: ["civil society", "general international media", "corruption"]
+dates: [2005-2022]
+data_type: ["news", "discourse", "reports"] 
+language: ["English", "Russian"]
+description: [The OCCRP aims to develop and equip a global network of investigative journalists, as well as publish stories exposing crime and corruption.]
+---
+
+Founded in 2005 in Sarajevo, Bosnia and Herzegovina, the [Organized Crime and Corruption Reporting Project](https://www.occrp.org/) aims to develop and equip a global network of investigative journalists, as well as publish stories exposing crime and corruption. The project regularly covers post-Soviet and Central Asian countries. 

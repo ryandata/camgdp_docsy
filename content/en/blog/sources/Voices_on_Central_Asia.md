@@ -1,0 +1,13 @@
+﻿---
+countries: ["Kazakhstan"]
+category: [“Independent media”]
+tags: [“media publication”, “news”, “Central Asia media”, “policy”, “research”]
+dates: []
+data_type: [“news”, “analytics”] 
+title: [“Voices on Central Asia”]
+date: [2022-07-27]
+language: [“English”]
+description: [ Offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia. ]
+---
+
+Founded in collaboration with the Central Asia Program and the Central Asian Analytical Network on the basis of the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), [Voices on Central Asia] (https://voicesoncentralasia.org/) offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia. 
