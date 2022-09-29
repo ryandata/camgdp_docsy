@@ -1,15 +1,19 @@
 ﻿---
+title: "World Value Survey"
+linkTitle: "World Value Survey"
+date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["population", "health", "legal rights"]
-dates: [2010-2020]
+date_start: [2010]
+date_end: [2020]
 data_type: ["survey", "quantitative"] 
-title: ["World Value Survey"]
-date: [2022-07-27]
 language: ["English"]
-description: [Survey of social, political, economic, religious and cultural values across different communities. ]
+description: 
+  Survey of social, political, economic, religious and cultural values across different communities.
 ---
-[World Value Survey] (https://www.worldvaluessurvey.org/WVSOnline.jsp) studies social, political, economic, religious and cultural values. 
+
+[World Value Survey](https://www.worldvaluessurvey.org/WVSOnline.jsp) studies social, political, economic, religious and cultural values. 
 
 Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020). 
 

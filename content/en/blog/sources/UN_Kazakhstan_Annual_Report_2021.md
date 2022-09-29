@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["country report", "general report"]
-dates: [2021]
+date_start: [2021]
+date_end: [2021]
 data_type: ["overview", "qualitative", "quantitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
 description: 

@@ -1,12 +1,13 @@
 ﻿---
-countries: ["Kazakhstan"]
-category: ["regional NGO"]
-tags: ["economics", "development", "domestic politics", "health", "general regional NGO"]
-dates: [2017-2021]
-data_type: ["survey", "quantitative", "dataset"] 
 title: "Central Asia Barometer"
 linkTitle: "Central Asia Barometer"
 date: 2022-07-27
+countries: ["Kazakhstan"]
+category: ["regional NGO"]
+tags: ["economics", "development", "domestic politics", "health", "general regional NGO"]
+date_start: [2017]
+date_end: [2021]
+data_type: ["survey", "quantitative", "dataset"] 
 language: ["English", "Russian"]
 description: 
   Central Asia Barometer is a regional independent NGO for applied social research.

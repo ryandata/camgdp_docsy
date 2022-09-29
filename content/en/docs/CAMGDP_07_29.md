@@ -25,12 +25,12 @@ Data portal provides gender-related data across six main components: population,
 [Transparency portal available] (https://www.unfpa.org/data/transparency-portal/unfpa-kazakhstan) 
 Methodological note and information on data collection are not available.
 
-1.5 [UNDP in Kazakhstan] (https://www.undp.org/kazakhstan) 
+1.5 [UNDP in Kazakhstan] (https://www.kz.undp.org/content/kazakhstan/en/home/gender-equality.html) 
 Discusses the cause of gender equality in Kazakhstan in the context of Sustainable Development Goals. Provides a brief overview of the UNDP gender equality agenda in Kazakhstan and key general statistics. 
 [2019 Gender Profile of Sustainable Development Goals in Kazakhstan] (https://www.kz.undp.org/content/kazakhstan/en/home/library/gender_equality/gender-profile-of-sustainable-development-goals-in-kazakhstan.html) is available only Russian. Methodology section is not included.
 [Girls and Education infographic on Kazakhstan, Uzbekistan, and Afghanistan] (https://www.kz.undp.org/content/kazakhstan/en/home/library/corporate/girls_and_education.html)
 
-1.6 [Spotlight Initiative Regional Programme for Central Asia and Afghanistan] (https://www.spotlightinitiative.org/central-asia)
+1.6 [Spotlight Initiative Regional Programme for Central Asia and Afghanistan] (https://www.undp.org/kazakhstan/projects/spotlight-initiative-regional-programme-central-asia-and-afghanistan)
 Research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia. The program involves UN Women, UNDP, and UNFPA. The initiative has not yet published official reports of its research done on Central Asia. 
 
 2. World Bank
@@ -41,7 +41,7 @@ Data available via CVS, API, and Databank formats.
 
 2.2 [Women, Business, and the Law Reports] (https://wbl.worldbank.org/en/reports)
 Annual report measuring the laws and regulations that affect women’s economic opportunity in 190 economies, including Kazakhstan. 
-Reports are available in English. Methodology section is available on the website and is based on feedback of “more than 2,000 respondents” which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages. 
+Reports are available in English. Methodology section is available on the website and is based on feedback of "more than 2,000 respondents" which includes local experts on family, labor, and criminal law, including lawyers, judges, academics, and civil society. It is unclear whether the questionnaires sent out to experts are in English, Russian, or Kazakh languages. 
 
 3. [World Value Survey] (https://www.worldvaluessurvey.org/WVSOnline.jsp)
 Studies social, political, economic, religious and cultural values. Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020). 
@@ -49,9 +49,9 @@ Some relevant questions include questions about women’s leadership skills, wom
 The sample size is relatively small (1,500 and 1,276 in waves 6 and 7 respectively). A lot of questions are missing data. The methodology and data collection is unclear, especially in regards which language was used in surveys. 
 
 4. [Friedrich Ebert Stiftung] (https://kazakhstan.fes.de/) 
-Founded in 1925 in Germany with a Kazakhstani office opened in 1993, Friedrich Ebert Stiftung is a foundation funded by the German government. The INGO focuses on social and gender justice issues, as well as political participation and youth leadership. Publications of Kazakhstan’s population surveys, particularly focused on youth, in English, Kazakh, and Russian. Published surveys include “Youth and Education,” “Youth and Values,” “Youth and Social Justice.” Gendered breakdown of data is included for some survey questions. The “Youth in Kazakhstan” 2021 survey has five main section, including (1) values and orientations, (2) life plans, education, employment, and immigration, (3) youth and politics, and (4) foreign policy and attitudes toward Central Asia. The values and orientation section incorporates questions on attitudes toward abortion, homosexuality, different sexual practices, and other. The survey uses mixed method approach and includes a methodology chapter.    
+German political foundation. Publications of Kazakhstan’s population surveys, particularly focused on youth, in English, Kazakh, and Russian. Published surveys include "Youth and Education," "Youth and Values," "Youth and Social Justice." Gendered breakdown of data is included for some survey questions. The "Youth in Kazakhstan" 2021 survey has five main section, including (1) values and orientations, (2) life plans, education, employment, and immigration, (3) youth and politics, and (4) foreign policy and attitudes toward Central Asia. The values and orientation section incorporates questions on attitudes toward abortion, homosexuality, different sexual practices, and other. The survey uses mixed method approach and includes a methodology chapter.    
 
-5. [World Economic Forum’s Global Gender Gap Report] (https://www.weforum.org/reports/global-gender-gap-report-2022)
+5. [World Economic Forum’s Global Gender Gap Report] (https://www.weforum.org/reports/global-gender-gap-report-2021)
 The Global Gender Gap Report includes countries’ score cards summarizing key gendered data findings broken down into 11 categories: economic participation and opportunity, educational attainment, health and survival, political empowerment, general indicators, work participation and leadership, access to finance, civil and political freedom, family and care, education and skills, and health. The report page does not appear to have a methodology section available. User’s guide how to read the economy profiles is provided. 
 
 6. [OECD] (https://www.oecd.org/countries/kazakhstan/)
@@ -77,15 +77,6 @@ Founded in 2002, based in Philadelphia, Pennsylvania. Dedicated to producing res
 
 13. [Prague Civil Society Centre] (https://www.praguecivilsociety.org/)
 Founded in 2014 and based in Prague, the Czech Republic. Dedicated to enabling civic groups and journalists to connect with their communities through grant making, capacity building, and learning. The Centre is funded by governments of Sweden, the Czech Republic, the UK, and the US, as well as the European Commission, the Oak Foundation, and the Wellspring Philanthropic Fund. Focuses on Eastern Europe and Central Asia. In addition to civil society programs, the Centre publishes media and publications on various topics related to the civic groups in Central Asia. 
-
-14. [Eurasia Foundation] (https://www.eurasia.org/where-we-work/asia/)
-Founded in 2004 and based in Washington, DC, Eurasia Foundation works with international, national, and local partners for community action. The foundation has a variety of international and local donors. Areas of expertise include civil society, youth and leadership, media, governance, and [gender and marginalized communities] (https://www.eurasia.org/what-we-do/gender-and-marginalized-groups/). Available in English. 
-
-15. [Feminist Translocalities] (https://feminisms.co/)
-A grassroots transnational feminist organization aiming to bring together and support feminist and LGBTQ+ activists from Ukraine, Belarus, and Russia. The organization publishes magazine articles and zines, hosts events, and engages in other various projects. Although the website describes the organization as primarily focused on Ukraine, Belarus, and Russia, it frequently publishes works by Central Asian authors. Available in English and Russian. 
-
-16. [Organized Crime and Corruption Reporting Project] (https://www.occrp.org/)
-Founded in 2005 in Sarajevo, Bosnia and Herzegovina, the OCCRP aims to develop and equip a global network of investigative journalists, as well as publish stories exposing crime and corruption. The project regularly covers post-Soviet and Central Asian countries. Available in English and Russian.
 
 Local NGOs and grassroots organizations
 
@@ -137,30 +128,6 @@ Grassroots project documenting urban history of Kazakhstan and its capital. Prim
 16. [Research Institute for Social and Gender Studies] (https://kazmkpu.kz/en/ob-institute-sgi)
 Founded in 2000 on the basis of the Kazakh National Women’s Teacher Training University. Dedicated to promoting gender and social equality through the implementation of multidisciplinary research projects and social initiatives. Research and publications are particularly focused on education and teaching in Kazakhstan. Available in English, Kazakh, and Russian. 
 
-17. [#NeMolchiKz] (https://nemolchi.kz/)
-Founded in 2017, #NeMolchiKz is a grassroots public fund dedicated to protection of victims of gender-based violence. The fund defines its activities along the three components, including legal protection, promotion of awareness, and legislative. Available in Russian. 
-
-18. [Policy Solutions Center] (https://policysolutions.kz/)
-A grassroots organizations of Kazakhstani researchers involved in the study of socio-political and socio-economic problems in Kazakhstan, as well as the development of policy and management recommendations. The Center publishes analytical pieces and develops projects on political, economic, and social issues. Available in Russian. 
-
-19. [New Generation of Human Rights Defenders Coalition] (https://nghrdc.kz/)
-Founded in 2019, the New Generation of Human Rights Defenders is a coalition of Kazakhstani human rights defenders including practicing experts in the field of international human rights law, human rights researchers, leaders, and members of NGOs. The Coalition is engaged in informational campaigns, educational training, and other public events organization. Available in Russian. 
-
-20. [Uyat Emes] (https://uyatemes.kz/)
-Founded in 2018, Uyat Emes is an educational site for Kazakhstani teenagers and their parents. The mission of the initiative is to help young people become more literate about reproductive health and sexuality. Available in Kazakh and Russian. 
-
-21. [Eurasian Cultural Alliance] (https://en.cultura.kz/)
-Founded in 2011, Eurasian Cultural Alliance is a NGO dedicated to cultivating the contemporary art scene of Kazakhstan. The mission of the Alliance is to stimulate the creative economy, improve social and economic standing of the region's key cultural players, and advance the integration of the Kazakhstani identity into a larger global context. Available in English and Russian. 
-
-22. [Schitaetsya] (https://schitaetsya.kz/)
-Founded in 2021, [Schitaetsya] (https://schitaetsya.kz/) is a collaborative project by the Kaz Fem feminist organization and other experts and organization to collect accurate information about domestic violence in Kazakhstan and provide informational resources for victims of domestic abuse. 
-
-23. [Tselinny Center] (http://tselinny.org/)
-Founded in 2018 by Kairat Boranbayev, [Tselinny Center] (http://tselinny.org/) is dedicated to studying and developing cultural scene in Kazakhstan. The center publishes educational books, hosts art exhibitions, and organizes events. Available in Kazakh and Russian. 
-
-24. [Oyan, Qazaqstan!] (https://www.instagram.com/oyanqazaqstankz/)
-Founded in 2019, [Oyan, Qazaqstan!] (https://www.instagram.com/oyanqazaqstankz/) is a social movement advocating for political reforms in Kazakhstan. The organization shares news about political events, activist campaigns, organizing efforts, as well as prosecution of activists by the state authorities. 
-
 Government
 
 1. [Bureau of National Statistics / Gender] (https://gender.stat.gov.kz/en)
@@ -173,7 +140,7 @@ Legal information system of Regulatory Legal Acts under the Ministry of Justice 
 Official website of the President of the Republic of Kazakhstan. Contains official documents, such as the constitution, state strategies and programs, and constitutional laws, as well as an archive of the documents. The website is not search friendly. Available in English, Kazakh, and Russian. 
 
 4. [National Commission for Women Affairs and Familial Demographic Policies] (https://www.akorda.kz/ru/executive_office/presidential_commissions/commission_for_women)
-Established in 2006 by the first president Nursultan Nazarbayev as a consultative and advisory body under the President of the Republic of Kazakhstan. One of the main goals of the commission is the development of recommendations for setting priorities and forming and implementing a comprehensive state policy regarding the family, equality of women and men in the context of the "Strategy "Kazakhstan - 2050: a new political course of an established state.” The text of the original 2006 decree could be found in Russian [here] (https://adilet.zan.kz/rus/docs/U060000056_). As of May 2022, the composition of the commission can be found [here] (https://www.akorda.kz/ru/o-vnesenii-izmeneniy-i-dopolneniya-v-ukaz-prezidenta-respubliki-kazahstan-ot-1-fevralya-2006-goda-56-o-nacionalnoy-komissii-po-delam-zhenshchin-i-semeyno-demograficheskoy-politike-pri-prezidente-respubliki-kazahstan-1842638). Current president of the commission, Karakat Abden, Kazakhstani author, politician, and public figure, [received public criticism] (https://esquire.kz/t-v-kazashka-smirisy/) after the release of her controversial book titled “You are a Kazakh Girl. Be Proud!”.
+Established in 2006 by the first president Nursultan Nazarbayev as a consultative and advisory body under the President of the Republic of Kazakhstan. One of the main goals of the commission is the development of recommendations for setting priorities and forming and implementing a comprehensive state policy regarding the family, equality of women and men in the context of the "Strategy "Kazakhstan - 2050: a new political course of an established state." The text of the original 2006 decree could be found in Russian [here] (https://adilet.zan.kz/rus/docs/U060000056_). As of May 2022, the composition of the commission can be found [here] (https://www.akorda.kz/ru/o-vnesenii-izmeneniy-i-dopolneniya-v-ukaz-prezidenta-respubliki-kazahstan-ot-1-fevralya-2006-goda-56-o-nacionalnoy-komissii-po-delam-zhenshchin-i-semeyno-demograficheskoy-politike-pri-prezidente-respubliki-kazahstan-1842638). Current president of the commission, Karakat Abden, Kazakhstani author, politician, and public figure, [received public criticism] (https://esquire.kz/t-v-kazashka-smirisy/) after the release of her controversial book titled "You are a Kazakh Girl. Be Proud!".
 
 5. [Official Information Source of the Prime Minister of the Republic of Kazakhstan] (https://primeminister.kz/)
 Official website of the Prime Minister of the Republic of Kazakhstan. Contains official documents, such as the state addresses, policies breakdown of the state and advisory bodies, government composition, as well as an archive of the documents. The website is not search friendly. Available in English, Kazakh, and Russian. 
@@ -186,9 +153,6 @@ Official website of the akimat (regional administration) of Almaty, the largest 
 
 8. [Central Communication Service under the President of the Republic of Kazakhstan] (https://ortcom.kz/en/)
 Official communication service for presidential and state affairs aimed at fostering communication between the government bodies and media. Contains latest news (including regional news), press releases, infographics, video announcements, and expert discussions. Available in English, Kazakh and Russian.
-
-9. [Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence] (https://adilet.zan.kz/rus/docs/V1500012948) 
-Founded in 1998, the [Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence] (https://adilet.zan.kz/rus/docs/V1500012948) is a domestic body on the basis of police work force designed to protect constitutional rights of women, coordinate detention and prosecution processes in the case of the detention of women, and organize work to prevent domestic violence against women. The official text of the establishment of the units [could be found here] (https://adilet.zan.kz/rus/docs/V1500012948). In 2021, Kaz Fem feminist organization [criticized] (https://www.instagram.com/p/CXtA7T6MbAM/) the compensation policy of the Units’ workers stating that on average its female workers earn less than workers of other internal affairs’ units. 
 
 Independent and international media
 
@@ -229,10 +193,10 @@ Founded in 2014 in Russia, Mediazona Central Asia covers current events in Kazak
 Founded in 2020. Offers coverage of current events in Kazakhstan and Uzbekistan and journalistic investigations. Available in Kazakh, Uzbek and Russian.
 
 13. [Azattyq] (https://www.azattyq.org/)
-Kazakhstani branch of Radio Free Europe/Radio Liberty, a US Congress-funded broadcasting organization. Offers coverage of current events in Kazakhstan, as well as various editorial projects. Available in Kazakh and Russian. 
+Kazakhstani branch of Radio Free Europe/Radio Liberty, a US government-funded broadcasting organization. Offers coverage of current events in Kazakhstan, as well as various editorial projects. Available in Kazakh and Russian. 
 
 14. [Eurasianet.org] (https://eurasianet.org/)
-Founded in 1999, based at Columbia University’s Harriman Institute. Offers coverage of current events in Central Asia and South Caucasus. Available in English and Russian. 
+Founded in 1999, based at Columbia University’s Harriman Institute. Offers coverage of current events in Central Asia and South Caucasus. Available in Kazakh and Russian. 
 
 15. [The Diplomat] (https://thediplomat.com/)
 Founded in 2002, based in Arlington, Virginia. Offers coverage of current events in Central Asia. Available in English.
@@ -257,15 +221,6 @@ Founded in 2011 in Bishkek, Kyrgyzstan and based in Paris and Berlin. Offers cov
 
 22. [TAG news] (https://kaztag.kz/ru/) 
 Founded first in 2008 in Kazakhstan, TAG news agency offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Iran, and the Silk Road region. Available in English, Kazakh, and Russian in Kazakhstan; Kyrgyz and Russian in Kyrgyzstan; Uzbek and Russian in Uzbekistan; and Tajik and Russian in Tajikistan. 
-
-23. [Current Time Asia] (https://www.currenttime.tv/asia/)
-Based in Prague, Czech Republic, Current Time Asia was created by the Radio Free Europe/Radio Liberty, a US Congress-funded broadcasting organization, with participation of Voice of America. Offers news, reports, investigations, and interviews covering Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan. Available in Russian. 
-
-24. [PONARS Eurasia] (https://www.ponarseurasia.org/)
-Founded in the late 1990s and currently based at the George Washington University’s Institute for European, Russian, and Eurasian Studies (IERES), the Program on New Approaches to Research and Security in Eurasia (PONARS Eurasia) offers policy analysis and dialogue. The program aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia. Available in English, Russian, Dutch, French, German, and Ukrainian. 
-
-25. [Human Rights KZ] (https://www.instagram.com/humanrightskz/)
-Founded in 2021, Human Rights KZ is dedicated to sharing domestic and international human rights information and news in Kazakh. Available on Instagram. 
 
 Possibly state-affiliated media
 

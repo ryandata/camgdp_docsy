@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["civil society", "general local NGO", "sex education", "youth", "governance", "policy"]
-dates: [2005-2022]
+date_start: [2005]
+date_end: []
 data_type: ["survey", "quantitative", "qualitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
 description: 

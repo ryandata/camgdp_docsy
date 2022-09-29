@@ -1,13 +1,16 @@
 ---
+title: "UN Population Fund in Kazakhstan"
+linkTitle: "UN Population Fund in Kazakhstan"
+date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["population", "health", "legal rights"]
-dates: [2010-2022]
+date_start: [2010]
+date_end: []
 data_type: ["survey", "interview", "qualitative", "quantitative"] 
-title: ["UN Population Fund in Kazakhstan"]
-date: [2022-07-27]
 language: ["English", "French", "Spanish"]
-description: [Data portal from the UN Population Fund provides gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.]
+description: 
+  Data portal from the UN Population Fund provides gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.
 ---
 
 The [UN Population Fund](https://www.unfpa.org) produces country-specific landing pages. The work of the Fund includes data on sexual and reproductive health, gender equality, young people, and population matters.

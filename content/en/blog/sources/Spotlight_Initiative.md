@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["development", "central asian initiative", "gender based violence"]
-dates: [2017-2022]
+date_start: [2017]
+date_end: []
 data_type: ["overview", "qualitative", "quantitative", "report"] 
 language: ["English", "Spanish", "French"]
 description: 

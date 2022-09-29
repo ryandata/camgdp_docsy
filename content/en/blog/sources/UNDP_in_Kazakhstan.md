@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["general report", "country profile", "development"]
-dates: []
+date_start: []
+date_end: []
 data_type: ["overview", "qualitative", "quantitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
 description: 

@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["population", "health", "legal rights", "political empowerment", "overview", "general INGO", "education"]
-dates: [2005-2022]
+date_start: [2005]
+date_end: []
 data_type: ["survey", "quantitative", "report"] 
 language: ["English", "French", "Spanish"]
 description: 

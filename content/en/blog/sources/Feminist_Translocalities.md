@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["civil society", "feminist INGO", "feminism", "LGBTQ"]
-dates: []
+date_start: []
+date_end: []
 data_type: ["art", "narratives", "discourse"] 
 language: ["English", "Russian"]
 description: 

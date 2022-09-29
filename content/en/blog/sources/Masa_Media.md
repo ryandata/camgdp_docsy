@@ -5,7 +5,8 @@ date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"] 
 tags: ["media publication", "local media", "news"]
-dates: [2021-2022] 
+date_start: [2021]
+date_end: []
 data_type: ["news"] 
 language: ["Russian", "Kazakh"]
 description: 
