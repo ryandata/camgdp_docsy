@@ -110,7 +110,7 @@ section = ["HTML", "print", "RSS"]
 	
 [params]
 copyright = "Ryan Womack and Aizada Arystanbek"
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -191,20 +191,21 @@ enable = false
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 [[params.links.user]]
-  name = "Ryan Womack"
-  url = "https://ryanwomack.com"
-  icon = "fa fa-envelope"
-  desc = "contact Ryan Womack, Data Librarian"
+  name = "CAMGDP Website"
+  url = "https://camgdp.org"
+  icon = "fas fa-globe"
+  desc = "CAMGDP home page"
 [[params.links.user]]
-  name ="Mastodon"
-  url = "https://example.org/twitter"
-  icon = "fab fa-mastodon"
-  desc = "Follow us on Mastodon to get the latest news!"
-[[params.links.user]]
-  name = "Stack Overflow"
-  url = "https://example.org/stack"
+  name = "CC-BY-SA-4.0 license"
+  url = "https://creativecommons.org/licenses/by-sa/4.0/"
   icon = "fab fa-creative-commons-by"
-  desc = "Practical questions and curated answers"
+  desc = "CC-BY-SA-4.0 license"
+[[params.links.user]]
+  name = "Ryan Womack home page"
+  url = "https://ryanwomack.com"
+  icon = "fa fa-globe"
+  desc = "Ryan Womack home page"
+  
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
@@ -212,15 +213,15 @@ enable = false
   icon = "fab fa-github"
   desc = "content repository for CAMGDP"
 [[params.links.developer]]
-  name = "Website"
-  url = "https://example.org/slack"
-  icon = "fas fa-globe"
-  desc = "Chat with other project developers"
+  name ="Mastodon, Ryan Womack"
+  url = "https://mastodon.social/@ryandata/"
+  icon = "fab fa-mastodon"
+  desc = "Ryan Womack, Mastodon"
 [[params.links.developer]]
-  name = "Developer mailing list"
-  url = "https://example.org/mail"
+  name = "contact Ryan Womack"
+  url = "https://ryanwomack.com/contact"
   icon = "fa fa-envelope"
-  desc = "Discuss development issues around the project"
+  desc = "contact Ryan Womack, Data Librarian"
 
 # hugo module configuration
 
@@ -236,3 +237,19 @@ enable = false
   [[module.imports]]
     path = "github.com/google/docsy/dependencies"
     disable = false    
+    
+# Privacy policy (added by Ryan Womack, 2022-01-07)
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
