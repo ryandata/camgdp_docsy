@@ -20,18 +20,31 @@ $td-enable-google-fonts: true !default;
 
 // Theme colors
 
-$primary: #30638E !default;
+
+$primary: #68A2CC !default;
 $primary-light: lighten($primary, 75%) !default;
-$secondary: #FFA630 !default;
-$success: #3772FF !default;
+$secondary: #85B3A3 !default;
+$success: #A2C57A !default;
 $info: #C0E0DE !default;
 $warning: #ED6A5A !default;
-$danger: #ED6A5A !default;
-$white: #fff !default;
+$danger: #DDE729 !default;
+$white: #D6EADF !default;
 $light: #D3F3EE !default;
 
-$dark: #403F4C !default;
-$blue: #72A1E5 !default;
+// original 
+
+// $primary: #30638E !default;
+// $primary-light: lighten($primary, 75%) !default;
+// $secondary: #FFA630 !default;
+// $success: #3772FF !default;
+// $info: #C0E0DE !default;
+// $warning: #ED6A5A !default;
+// $danger: #ED6A5A !default;
+// $white: #fff !default;
+// $light: #D3F3EE !default;
+
+$dark: #68A2CC !default;
+$blue: #68A2CC !default;
 $orange: #BA5A31 !default;
 $gray-100: #f8f9fa !default;
 $gray-200: #eee !default;
@@ -42,7 +55,7 @@ $gray-600: #797676 !default;
 $gray-700: #495057 !default;
 $gray-800: #333 !default;
 $gray-900: #222 !default;
-$black: #000 !default;
+$black: #68A2CC !default;
 
 $code-color: darken($secondary, 20%) !default;
 
@@ -65,8 +78,8 @@ $link-hover-decoration: none !default;
 
 // Fonts
 
-$google_font_name: "Open Sans" !default;
-$google_font_family: "Open+Sans:300,300i,400,400i,700,700i" !default;
+$google_font_name: "Tinos" !default;
+$google_font_family: "Tinos:300,300i,400,400i,700,700i" !default;
 $web-font-path: "https://fonts.googleapis.com/css?family=#{$google_font_family}&display=swap";
 $font-awesome-font-name: "Font Awesome 6 Free" !default;
 
