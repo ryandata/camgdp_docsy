@@ -3,7 +3,7 @@ title: "World Bank"
 linkTitle: "World Bank"
 date: 2022-07-27
 countries: ["Kazakhstan"]
-category: ["INGO"]
+categories: ["INGO"]
 tags: ["population", "health", "legal rights", "overview"]
 date_start: [1960]
 date_end: []

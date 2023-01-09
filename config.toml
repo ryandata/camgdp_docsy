@@ -19,17 +19,23 @@ enableGitInfo = true
 # You can add your own taxonomies
 [taxonomies]
 tag = "tags"
-category = "categories"
+category = "category"
+countries = "countries"
+date_start = "date_start"
+date_end = "date_end"
+data_type = "data_type"
+language = "language"
+
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["tags", "categories"] 
+taxonomyCloud = ["countries", "category", "tags", "language"] 
 
 # If used, must have same length as taxonomyCloud
-taxonomyCloudTitle = ["Tag Cloud", "Categories"] 
+taxonomyCloudTitle = ["Countries", "Category", "Tag Cloud", "Language"] 
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["tags", "categories"] 
+taxonomyPageHeader = ["countries", "category", "tags", "language"] 
 
 
 # Highlighting config
