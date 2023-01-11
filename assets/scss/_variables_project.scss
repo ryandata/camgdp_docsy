@@ -23,11 +23,11 @@ $td-enable-google-fonts: true !default;
 
 $primary: #68A2CC !default;
 $primary-light: lighten($primary, 75%) !default;
-$secondary: #85B3A3 !default;
-$success: #A2C57A !default;
+$secondary: #77A797  !default;
+$success: #77A797 !default;
 $info: #C0E0DE !default;
-$warning: #ED6A5A !default;
-$danger: #DDE729 !default;
+$warning: #F1968B !default;
+$danger: #F1968B !default;
 $white: #D6EADF !default;
 $light: #D3F3EE !default;
 
@@ -35,8 +35,8 @@ $light: #D3F3EE !default;
 
 // $primary: #30638E !default;
 // $primary-light: lighten($primary, 75%) !default;
-// $secondary: #FFA630 !default;
-// $success: #3772FF !default;
+// $secondary: #FFA630 !default;   or 85B3A3
+// $success: #3772FF !default; or A2C57A
 // $info: #C0E0DE !default;
 // $warning: #ED6A5A !default;
 // $danger: #ED6A5A !default;
@@ -71,7 +71,7 @@ $td-sidebar-border-color: $border-color !default;
 // These colors are all part of the theme palette, but the mix is fairly random to create variation. This can be overridden by the project if needed.
 $td-box-colors: $dark, $primary, $secondary, $info, $primary-light, $gray-600, $success, $warning, $dark, $danger, $primary, $secondary, $primary-light, $info !default;
 
-$link-color: darken($blue, 15%) !default;
+$link-color: darken($blue, 50%) !default;
 $link-decoration: none !default;
 $link-hover-color: darken($link-color, 15%) !default;
 $link-hover-decoration: none !default;
@@ -93,7 +93,7 @@ $font-family-sans-serif: $td-fonts-serif !default;
 
 $font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
 $font-family-base: $font-family-sans-serif !default;
-$font-size-base: 1rem !default;
+$font-size-base: 1.125rem !default;
 
 // Font weights
 
@@ -107,11 +107,11 @@ $headings-font-weight: $font-weight-medium !default;
 
 // Heading sizes
 
-$h1-font-size: $font-size-base * 2.25 !default;
-$h2-font-size: $font-size-base * 2 !default;
-$h3-font-size: $font-size-base * 1.5 !default;
-$h4-font-size: $font-size-base * 1.35 !default;
-$h5-font-size: $font-size-base * 1.15 !default;
+$h1-font-size: $font-size-base * 2 !default;
+$h2-font-size: $font-size-base * 1.8 !default;
+$h3-font-size: $font-size-base * 1.4 !default;
+$h4-font-size: $font-size-base * 1.25 !default;
+$h5-font-size: $font-size-base * 1.1 !default;
 $h6-font-size: $font-size-base !default;
 
 // Display styles
