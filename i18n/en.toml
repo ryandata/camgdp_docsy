@@ -21,6 +21,9 @@ other = "in"
 other = "all"
 
 # Footer text
+[footer_CC_BY_SA]
+other = "licensed CC-BY-SA-4.0, all other rights reserved"
+
 [footer_all_rights_reserved]
 other = "All Rights Reserved"
 
