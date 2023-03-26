@@ -51,6 +51,8 @@ other = "Публикации в"
 other = "минутное чтение"
 [post_less_than_a_minute_read]
 other = "меньше минуты"
+[post_recently_added]
+other = "Недавно добавленные сообщения"
 
 # Print support
 [print_printable_section]

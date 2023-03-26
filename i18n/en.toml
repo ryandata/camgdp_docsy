@@ -54,6 +54,8 @@ other = "Posts in"
 other = "minute read"
 [post_less_than_a_minute_read]
 other = "less than a minute"
+[post_recently_added]
+other = "Recently added sources"
 
 # Print support
 [print_printable_section]
