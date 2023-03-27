@@ -25,6 +25,7 @@ date_start = "date_start"
 date_end = "date_end"
 data_type = "data_type"
 language = "language"
+author = "author"
 
 
 [params.taxonomy]
@@ -111,8 +112,8 @@ time_format_blog = "2006.01.02"
 # Everything below this are Site Params
 
 # Comment out if you don't want the "print entire section" link enabled.
-[outputs]
-section = ["HTML", "print", "RSS"]
+# [outputs]
+# section = ["HTML", "print", "RSS"]
 	
 [params]
 copyright = "Ryan Womack and Aizada Arystanbek"
@@ -140,16 +141,16 @@ version = "0.1"
 url_latest_version = "https://camgdp.org"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/ryandata/camgdp_docsy"
+# github_repo = "https://github.com/ryandata/camgdp_docsy"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/ryandata/camgdp"
+# github_project_repo = "https://github.com/ryandata/camgdp"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
 
 # Uncomment this if your GitHub repo does not have "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
-github_branch= "main"
+# github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 # gcs_engine_id = "d72aa9b2712488cc3"
@@ -159,6 +160,12 @@ algolia_docsearch = false
 
 # Enable Lunr.js offline search
 offlineSearch = true
+
+# add JSON to the outputs
+[outputs]
+	home = [ "HTML", "JSON", "RSS"]
+	
+rss_sections = ["sources"]
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
@@ -176,7 +183,7 @@ navbar_translucent_over_cover_disable = true
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
@@ -211,6 +218,11 @@ enable = false
   url = "https://ryanwomack.com"
   icon = "fa fa-globe"
   desc = "Ryan Womack home page"
+ [[params.links.user]]
+  name = "RSS"
+  url = "https://camgdp.org/sources/index.xml"
+  icon = "fa fa-rss"
+  desc = "CAMGDP RSS feed"
   
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]

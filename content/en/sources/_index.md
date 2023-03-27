@@ -1,13 +1,13 @@
 ---
 title: "CAMGDP sources"
 linkTitle: "Sources"
-type: "blog"
+type: "sources"
 menu:
   main:
     weight: 30
 
 cascade:
-  - type: "blog"
+  - type: "sources"
 ---
 
 
