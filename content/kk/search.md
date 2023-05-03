@@ -1,6 +1,6 @@
 ---
-title: نتایج جستجو
-layout: جستجو
+title: Іздеу нәтижесі
+layout: search
 
 ---
 

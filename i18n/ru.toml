@@ -21,6 +21,9 @@ other = "в"
 other = "всё"
 
 # Footer text
+[footer_CC_BY_SA]
+other = "лицензия CC-BY-SA-4.0, все остальные права защищены"
+
 [footer_all_rights_reserved]
 other = "Все права защищены"
 

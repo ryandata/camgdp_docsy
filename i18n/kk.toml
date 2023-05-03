@@ -1,0 +1,86 @@
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Алдыңғы"
+
+[ui_pager_next]
+other = "Келесі"
+
+[ui_read_more]
+other = "Көбірек"
+
+[ui_search]
+other = "Сайт бойынша іздеу…"
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "ішінде"
+
+# Used in sentences such as "All Tags"
+[ui_all]
+other = "Барлық"
+
+# Footer text
+[footer_CC_BY_SA]
+other = "CC-BY-SA-4.0 бойынша лицензияланған, барлық басқа құқықтар қорғалған"
+
+[footer_all_rights_reserved]
+other = "Барлық құқықтар сақталған"
+
+[footer_privacy_policy]
+other = "Құпиялылық саясаты"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Автор"
+[post_created]
+other = "Құрылды"
+[post_last_mod]
+other = "Өзгертілді"
+[post_edit_this]
+other = "Бетті өңдеу"
+[post_view_this]
+other = "Бет көзін қараңыз"
+[post_create_child_page]
+other = "Қосымша бет жасаңыз"
+[post_create_issue]
+other = "Құжаттамадағы өзгерістерді ұсыныңыз"
+[post_create_project_issue]
+other = "Жобаны жақсартуды ұсыныңыз"
+[post_posts_in]
+other = "Басылымдар"
+[post_reading_time]
+other = "минуттық оқу"
+[post_less_than_a_minute_read]
+other = "минуттан аз"
+[post_recently_added]
+other = "Жақында қосылған хабарламалар"
+
+# Print support
+[print_printable_section]
+other = "Бұл осы бөлімнің көп бетті басып шығару көрінісі.."
+[print_click_to_print]
+other = "Басып шығару үшін басыңыз"
+[print_show_regular]
+other = "Қалыпты бет көрінісіне оралу"
+[print_entire_section]
+other = "Бүкіл бөлімді басып шығару"
+
+# Community
+[community_join]
+other = "{{ .Site.Title }} қауымдастығына қосылыңыз"
+[community_introduce]
+other = "{{ .Site.Title }} - бұл қоғамдастықтағы кез келген адам пайдалана алатын, жақсарта алатын және ләззат алатын ашық бастапқы жоба. Сізді бізбен бірге көруге қуаныштымыз! Міне, бізге қосылудың, не болып жатқанын білудің және қатысудың кейбір жолдары."
+[community_learn]
+other = "Үйреніңіз және қосылыңыз"
+[community_using]
+other = "{{ .Site.Title }} пайдаланып жатырсыз ба немесе пайдаланғыңыз келе ме? Толығырақ мына жерден біліңіз:"
+[community_develop]
+other = "Өсу және үлес қосу"
+[community_contribute]
+other = "{{ .Site.Title }} сайтына үлес қосып, көбірек қатысқыңыз келсе, бізге осында қосылыңыз:"
+[community_how_to]
+other = "Бұл құжаттарға қалай үлес қосуға болатынын біздің бөлімнен біле аласыз"
+[community_guideline]
+other = "Үлес ұсыныстары"
