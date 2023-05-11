@@ -1,6 +1,7 @@
 ﻿---
 title: "Voices on Central Asia"
 linkTitle: "Voices on Central Asia"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]

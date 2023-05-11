@@ -1,6 +1,7 @@
 ﻿---
 title: "Central Communication Service under the President of the Republic of Kazakhstan"
 linkTitle: "Central Communication Service under the President of the Republic of Kazakhstan"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

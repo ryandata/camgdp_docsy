@@ -1,6 +1,7 @@
 ﻿---
 title: "National Commission for Women Affairs and Familial Demographic Policies"
 linkTitle: "National Commission for Women Affairs and Familial Demographic Policies"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

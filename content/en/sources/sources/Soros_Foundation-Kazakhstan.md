@@ -1,6 +1,7 @@
 ﻿---
 title: "Soros Kazakhstan Foundation"
 linkTitle: "Soros Kazakhstan Foundation"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

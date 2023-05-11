@@ -1,6 +1,7 @@
 ﻿---
 title: "Public Opinion Research Institute"
 linkTitle: "Public Opinion Research Institute"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]

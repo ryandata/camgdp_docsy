@@ -1,6 +1,7 @@
 ﻿---
 title: "Akimat of the city of Nur-Sultan"
 linkTitle: "Akimat of the city of Nur-Sultan"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

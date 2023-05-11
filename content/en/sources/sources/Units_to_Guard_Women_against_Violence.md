@@ -1,6 +1,7 @@
 ﻿---
 title: "Units to Guard Women against Violence"
 linkTitle: "Units to Guard Women against Violence"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

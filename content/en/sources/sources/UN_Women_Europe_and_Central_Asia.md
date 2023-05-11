@@ -1,6 +1,7 @@
 ﻿---
 title: "UN Women: Europe and Central Asia"
 linkTitle: "UN Women: Europe and Central Asia"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

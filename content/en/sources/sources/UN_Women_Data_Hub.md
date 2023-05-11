@@ -1,6 +1,7 @@
 ﻿---
 title: "UN Women Data Hub"
 linkTitle: "UN Women Data Hub"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

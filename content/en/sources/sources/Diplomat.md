@@ -1,6 +1,7 @@
 ﻿---
 title: "Diplomat (The)"
 linkTitle: "Diplomat (The)"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]

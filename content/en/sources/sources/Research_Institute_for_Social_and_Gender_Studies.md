@@ -1,6 +1,7 @@
 ﻿---
 title: "Research Institute for Social and Gender Studies"
 linkTitle: "Research Institute for Social and Gender Studies"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]

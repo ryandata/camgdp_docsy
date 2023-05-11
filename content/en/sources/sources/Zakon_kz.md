@@ -1,6 +1,7 @@
 ﻿---
 title: "Zakon.kz"
 linkTitle: "Zakon.kz"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["State-affiliated media"]

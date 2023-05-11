@@ -1,6 +1,7 @@
 ﻿---
 title: "Official Information Source of the Prime Minister of the Republic of Kazakhstan"
 linkTitle: "Official Information Source of the Prime Minister of the Republic of Kazakhstan"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

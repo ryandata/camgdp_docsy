@@ -1,6 +1,7 @@
 ﻿---
 title: "Central Asia Barometer"
 linkTitle: "Central Asia Barometer"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["regional NGO"]

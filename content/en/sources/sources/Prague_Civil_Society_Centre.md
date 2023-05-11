@@ -1,6 +1,7 @@
 ﻿---
 title: "Prague Civil Society Centre"
 linkTitle: "Prague Civil Society Centre"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

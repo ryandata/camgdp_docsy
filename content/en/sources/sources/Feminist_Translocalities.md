@@ -1,6 +1,7 @@
 ﻿---
 title: "Feminist Translocalities"
 linkTitle: "Feminist Translocalities"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

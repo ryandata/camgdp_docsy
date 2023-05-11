@@ -1,6 +1,7 @@
 ﻿---
 title: "Akimat of the city of Almaty"
 linkTitle: "Akimat of the city of Almaty"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

@@ -1,6 +1,7 @@
 ﻿---
 title: "UN Women Country Data Sheet"
 linkTitle: "UN Women Country Data Sheet"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

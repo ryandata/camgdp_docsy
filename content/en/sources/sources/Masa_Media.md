@@ -1,6 +1,7 @@
 ﻿---
 title: "Masa Media"
 linkTitle: "Masa Media"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"] 

@@ -1,6 +1,7 @@
 ﻿---
 title: "Crisis Centers Union"
 linkTitle: "Crisis Centers Union"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]

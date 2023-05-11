@@ -1,6 +1,7 @@
 ﻿---
 title: "PaperLab"
 linkTitle: "PaperLab"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]

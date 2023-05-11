@@ -1,6 +1,7 @@
 ﻿---
 title: "Mediazona Central Asia"
 linkTitle: "Mediazona Central Asia"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]

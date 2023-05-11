@@ -1,6 +1,7 @@
 ﻿---
 title: "The Oxus Society for Central Asian Affairs"
 linkTitle: "The Oxus Society for Central Asian Affairs"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["regional NGO"]

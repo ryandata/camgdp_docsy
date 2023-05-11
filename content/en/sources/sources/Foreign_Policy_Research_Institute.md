@@ -1,6 +1,7 @@
 ﻿---
 title: "Foreign Policy Research Institute"
 linkTitle: "Foreign Policy Research InstituteMISK"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

@@ -1,6 +1,7 @@
 ﻿---
 title: "Ak Orda"
 linkTitle: "Ak Orda"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]

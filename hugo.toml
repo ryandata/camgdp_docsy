@@ -25,18 +25,18 @@ date_start = "date_start"
 date_end = "date_end"
 data_type = "data_type"
 language = "language"
-author = "author"
+contributor = "contributor"
 
 
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
-taxonomyCloud = ["countries", "category", "tags", "language"] 
+taxonomyCloud = ["countries", "category", "tags", "language", "contributor"] 
 
 # If used, must have same length as taxonomyCloud
-taxonomyCloudTitle = ["Countries", "Category", "Tag Cloud", "Language"] 
+taxonomyCloudTitle = ["Countries", "Category", "Tag Cloud", "Language", "Contributor"] 
 
 # set taxonomyPageHeader = [] to hide taxonomies on the page headers
-taxonomyPageHeader = ["countries", "category", "tags", "language"] 
+taxonomyPageHeader = ["countries", "category", "tags", "language", "contributor"] 
 
 
 # Highlighting config

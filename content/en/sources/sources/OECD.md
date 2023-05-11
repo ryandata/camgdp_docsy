@@ -1,6 +1,7 @@
 ﻿---
 title: "Organization for Economic Co-operation and Development (OECD)"
 linkTitle: "Organization for Economic Co-operation and Development (OECD)"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

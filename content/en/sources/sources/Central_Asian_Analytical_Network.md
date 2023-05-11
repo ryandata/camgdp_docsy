@@ -1,6 +1,7 @@
 ﻿---
 title: "Central Asian Analytical Network"
 linkTitle: "Central Asian Analytical Network"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]

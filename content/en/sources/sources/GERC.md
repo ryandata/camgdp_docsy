@@ -1,6 +1,7 @@
 ﻿---
 title: "Gender Economics Research Center"
 linkTitle: "Gender Economics Research Center"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]

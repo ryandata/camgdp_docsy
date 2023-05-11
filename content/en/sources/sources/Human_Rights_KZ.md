@@ -1,6 +1,7 @@
 ﻿---
 title: "Human Rights KZ"
 linkTitle: "Human Rights KZ"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]

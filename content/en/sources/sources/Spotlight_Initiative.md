@@ -1,6 +1,7 @@
 ﻿---
 title: "Spotlight Initiative Regional Programme for Central Asia and Afghanistan"
 linkTitle: "Spotlight Initiative Regional Programme for Central Asia and Afghanistan"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]

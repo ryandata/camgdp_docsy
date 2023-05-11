@@ -1,6 +1,7 @@
 ﻿---
 title: "Adilet.Zan"
 linkTitle: "Adilet.Zan"
+contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]
