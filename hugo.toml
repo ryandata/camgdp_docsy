@@ -153,13 +153,13 @@ url_latest_version = "https://camgdp.org"
 # github_branch= "main"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-# gcs_engine_id = "d72aa9b2712488cc3"
+gcs_engine_id = "2632df294ebea485a"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = true
+offlineSearch = false
 
 # add JSON to the outputs
 [outputs]
