@@ -27,9 +27,10 @@ $secondary: #77A797  !default;
 $success: #77A797 !default;
 $info: #C0E0DE !default;
 $warning: #F1968B !default;
-$danger: #da2032 !default;
+$danger: #DA291C !default;
 $white: #D6EADF !default;
 $light: #D3F3EE !default;
+$blueuz: #0072CE !default;
 
 // original 
 
@@ -58,6 +59,34 @@ $gray-900: #222 !default;
 $black: #68A2CC !default;
 $red: #da2032 !default;
 
+// flag colors
+
+$redmn: #DA291C !default;
+$bluemn: #62B5E5 !default;
+$yellowmn: #FFD100 !default;
+
+$redtg: #E40046 !default;
+$yellowtg: #FFD100 !default;
+$greentg: #009639 !default;
+
+$greentk: #009639 !default;
+$orangetk: #E03C31 !default;
+$beigetk: #ECA154 !default;
+$blacktk: #000000 !default;
+
+$blueuz: #0072CE !default;
+$reduz: #DA291C !default;
+$greenuz: #43B02A !default;
+
+$redky: #EF3340 !default;
+$yellowky: #FFD100 !default;
+
+$bluekk: #00AEC7 !default;
+$yellowkk: #F6E500 !default;
+
+
+// 
+
 $code-color: darken($secondary, 20%) !default;
 
 // UI element colors
@@ -70,9 +99,9 @@ $td-sidebar-border-color: $border-color !default;
 // Background colors for the sections on home page etc. It is a paint by number system, starting at 0, where the number is taken from the shortcode's ordinal
 // if not provided by the user.
 // These colors are all part of the theme palette, but the mix is fairly random to create variation. This can be overridden by the project if needed.
-$td-box-colors: $dark, $primary, $secondary, $info, $primary-light, $gray-600, $success, $warning, $dark, $danger, $primary, $secondary, $primary-light, $info !default;
+$td-box-colors: $dark, $primary, $secondary, $info, $primary-light, $gray-600, $success, $warning, $dark, $danger, $primary, $secondary, $primary-light, $info, $blueuz !default;
 
-$link-color: darken($red, 0%) !default;
+$link-color: darken($blueuz, 0%) !default;
 $link-decoration: none !default;
 $link-hover-color: darken($link-color, 15%) !default;
 $link-hover-decoration: none !default;
