@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["gender NGO", "gender based violence", "crisis center"]
+tags: ["gender NGO", "gender-based violence", "crisis center"]
 date_start: [2005]
 date_end: []
 data_type: ["qualitative", "narratives", "discourse", "news", "visual"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   Crisis Centers Union unites 18 organizations from 12 regions of Kazakhstan.
 ---

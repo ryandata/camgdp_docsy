@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "local media", "corruption"]
+tags: ["media", "news", "local media", "corruption"]
 date_start: [2013]
 date_end: []
 data_type: ["news", "investigations"] 
 language: ["English", "Kazakh", "Russian"]
+updated: 2023-05-26
 description: 
   Offers coverage of current events, opinion pieces, and journalistic investigations in Kazakhstan, specifically concerning corruption.
 ---

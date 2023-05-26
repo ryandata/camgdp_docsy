@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["migration", "gender based violence", "sustainability", "disabilities", "economics"]
+tags: ["migration", "gender-based violence", "sustainability", "disabilities", "economics"]
 date_start: []
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "reports", "survey"] 
 language: ["English"]
+updated: 2023-05-26
 description: 
   Provides a list of UN Women publications on Kazakhstan.
 ---

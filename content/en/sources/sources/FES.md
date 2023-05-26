@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["social justice", "general INGO", "leadership", "training"]
+tags: ["social justice", "leadership", "training"]
 date_start: [1993]
 date_end: []
 data_type: ["survey", "interview", "qualitative", "quantitative", "report"] 
 language: ["English", "Kazakh", "Russian"]
+updated: 2023-05-26
 description: 
   Data portal from the UN Population Fund provides gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.
 ---

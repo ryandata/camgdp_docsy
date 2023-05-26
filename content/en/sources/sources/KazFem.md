@@ -10,6 +10,7 @@ date_start: [2015]
 date_end: [2022]
 data_type: ["narratives", "discourse", "qualitative"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   Grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan.
 ---

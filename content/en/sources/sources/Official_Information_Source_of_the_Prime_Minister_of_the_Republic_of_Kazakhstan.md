@@ -10,6 +10,7 @@ date_start: []
 date_end: []
 data_type: ["policy", "news"] 
 language: ["Russian", "Kazakh", "English"]
+updated: 2023-05-26
 description: 
   Official Information Source of the Prime Minister of the Republic of Kazakhstan is the official website of the Prime Minister of the Republic of Kazakhstan.]
 ---

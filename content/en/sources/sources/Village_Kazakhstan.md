@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "local media", "news"]
+tags: ["media", "local media", "news"]
 date_start: []
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   The Village Kazakhstan offers coverage of cultural and social life, events, and businesses.
 ---

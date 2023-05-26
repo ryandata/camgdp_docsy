@@ -10,6 +10,7 @@ date_start: [2018]
 date_end: []
 data_type: ["news"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Grassroots organization for LBT women providing support resources and engaged in advocacy and activism.
 ---

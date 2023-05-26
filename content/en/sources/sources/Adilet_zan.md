@@ -10,6 +10,7 @@ date_start: [2021]
 date_end: []
 data_type: ["archive", "policy"] 
 language: ["Russian", "Kazakh", "English"]
+updated: 2023-05-26
 description: 
   Legal information system of Regulatory Legal Acts under the Ministry of Justice Institute of Legislation and Legal Information.
 ---

@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "Central Asia media"]
+tags: ["media", "news", "Central Asian media"]
 date_start: [2008]
 date_end: []
 data_type: ["news"] 
 language: ["English", "Kazakh", "Russian", "Kyrgyz", "Uzbek", "Tajik"]
+updated: 2023-05-26
 description:  
   TAG news agency offers coverage of current events in Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Iran, and the Silk Road region.
 ---

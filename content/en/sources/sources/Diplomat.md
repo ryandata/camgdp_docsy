@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "International media"]
+tags: ["media", "news", "international"]
 date_start: [2002]
 date_end: []
 data_type: ["news"] 
 language: ["English"]
+updated: 2023-05-26
 description: 
   Offers coverage of current events in Central Asia.
 ---

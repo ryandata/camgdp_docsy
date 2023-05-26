@@ -5,12 +5,13 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["migration", "general NGO", "society", "COVID-19"]
+tags: ["migration", "society", "COVID-19"]
 date_start: []
 date_end: []
 data_type: ["reports", "survey"] 
 title: ["Public Opinion Research Institute"]
 language: ["Russian", "Kazakh", "English"]
+updated: 2023-05-26
 description: 
   Kazakhstani sociological institute specializes in public opinion, marketing, and sociological studies of Kazakhstan and other countries.
 ---

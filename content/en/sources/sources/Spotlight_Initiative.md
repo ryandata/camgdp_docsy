@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["development", "central asian initiative", "gender based violence"]
+tags: ["development", "gender-based violence"]
 date_start: [2017]
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "report"] 
 language: ["English", "Spanish", "French"]
+updated: 2023-05-26
 description: 
   Research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia.
 ---

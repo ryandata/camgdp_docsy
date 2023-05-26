@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["feminist NGO", "feminism", "activism", "instagram", "youtube"]
+tags: ["feminism", "feminist NGO", "activism", "instagram", "youtube"]
 date_start: [2021]
 date_end: []
 data_type: ["qualitative", "narratives", "discourse"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   Artyq Emes is a human rights project that researches fat phobia and fat-shaming in Kazakhstan
 ---

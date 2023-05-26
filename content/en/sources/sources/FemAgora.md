@@ -10,6 +10,7 @@ date_start: [2018]
 date_end: []
 data_type: ["qualitative", "narratives", "discourse"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   FemAgora is dedicated to fostering transnational feminist solidarity in Central Asia.
 ---

@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["general NGO", "activism", "human rights", "civil society"]
+tags: ["activism", "human rights", "civil society"]
 date_start: [1998]
 date_end: []
 data_type: ["survey", "quantitative"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Dedicated to research on youth, monitoring youth policy legislation, and human rights training.
 ---

@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["economics", "gender based violence", "sustainability"]
+tags: ["economics", "gender-based violence", "sustainability"]
 date_start: []
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "descriptive"] 
 language: ["English", "Russian"]
+updated: 2023-05-26
 description: 
   Provides an overview of UN initiatives in Kazakhstan.
 ---

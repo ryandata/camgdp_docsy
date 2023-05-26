@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "Central Asia media"]
+tags: ["media", "news", "Central Asian media"]
 date_start: []
 date_end: []
 data_type: ["news"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Current Time Asia was created by the Radio Free Europe/Radio Liberty, a US Congress-funded broadcasting organization, with participation of Voice of America.
 ---

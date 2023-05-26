@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "International media", "policy"]
+tags: ["media", "news", "international", "policy"]
 date_start: [1999]
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "English", "Dutch", "German", "Ukrainian", "French"]
+updated: 2023-05-26
 description: 
   PONARS aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.
 ---

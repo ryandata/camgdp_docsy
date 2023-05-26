@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["gender NGO", "gender based violence", "health", "politics"]
+tags: ["gender NGO", "gender-based violence", "health", "politics"]
 date_start: [2021]
 date_end: []
 data_type: ["quantitative", "statistics", "qualitative", "narratives", "testimonies"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Schitaetsya is a collaborative project by the Kaz Fem feminist organization and other experts and organization to collect accurate information about domestic violence in Kazakhstan and provide informational resources for victims of domestic abuse.
 ---

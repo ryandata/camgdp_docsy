@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["regional NGO"]
-tags: ["economics", "development", "domestic politics", "health", "general regional NGO"]
+tags: ["economics", "development", "politics", "health"]
 date_start: [2017]
 date_end: [2021]
 data_type: ["survey", "quantitative", "dataset"] 
 language: ["English", "Russian"]
+updated: 2023-05-26
 description: 
   Central Asia Barometer is a regional independent NGO for applied social research.
 ---

@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["country report", "general report"]
+tags: ["report"]
 date_start: [2021]
 date_end: [2021]
 data_type: ["overview", "qualitative", "quantitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   The UN’s annual country report.
 ---

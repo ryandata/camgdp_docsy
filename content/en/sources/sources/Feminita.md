@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["feminism", "feminist NGO", "LGBTQ", "sex work", "gendered violence"]
+tags: ["feminism", "feminist NGO", "LGBTQ", "sex work", "gender-based violence"]
 date_start: []
 date_end: []
 data_type: ["reports", "survey", "interviews", "quantitative", "qualitative"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   Grassroots queer feminist collective.
 ---

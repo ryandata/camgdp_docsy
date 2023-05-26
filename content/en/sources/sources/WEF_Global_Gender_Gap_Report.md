@@ -5,7 +5,7 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["population", "health", "legal rights", "political empowerment", "overview", "general INGO", "education"]
+tags: ["population", "health", "law", "politics", "education"]
 date_start: [2005]
 date_end: []
 data_type: ["survey", "quantitative", "report"] 

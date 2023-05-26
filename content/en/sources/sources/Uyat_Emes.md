@@ -10,6 +10,7 @@ date_start: [2018]
 date_end: []
 data_type: ["qualitative", "news", "discourse", "analytics"] 
 language: ["Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   Uyat Emes is an educational site about sex and relationships for Kazakhstani teenagers and their parents.
 ---

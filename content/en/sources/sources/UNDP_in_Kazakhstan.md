@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["general report", "country profile", "development"]
+tags: ["report", "development"]
 date_start: []
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   The UN Development Programme’s activities and data on Kazakhstan.
 ---

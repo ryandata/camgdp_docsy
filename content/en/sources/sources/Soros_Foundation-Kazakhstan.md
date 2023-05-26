@@ -10,6 +10,7 @@ date_start: [1995]
 date_end: []
 data_type: ["qualitative", "research institute"] 
 language: ["English", "Kazakh", "Russian"]
+updated: 2023-05-26
 description: 
   Soros Foundation-Kazakhstan funds multiple scholarship programs, educational courses, and research and activist initiatives.
 ---

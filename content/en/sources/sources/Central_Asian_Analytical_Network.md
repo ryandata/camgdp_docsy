@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "Central Asia media", "policy", "research"]
+tags: ["media", "news", "Central Asian media", "policy", "research"]
 date_start: []
 date_end: []
 data_type: ["news", "analytics"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Offers editorial and opinion pieces, interviews, book and publication reviews, and expert projects on politics, society, and economics of Central Asia. ]
 ---

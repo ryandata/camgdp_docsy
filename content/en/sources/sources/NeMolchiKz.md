@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["gender NGO", "gender based violence", "policy", "legislation"]
+tags: ["gender NGO", "gender-based violence", "policy", "law"]
 date_start: [2017]
 date_end: []
 data_type: ["qualitative", "news", "narratives", "testimonies"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   #NeMolchikz is a grassroots public fund dedicated to protection of victims of gender-based violence.
 ---

@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
-tags: ["security", "general INGO"]
+tags: ["security", "policy"]
 date_start: [2002]
 date_end: []
 data_type: ["policy", "report"] 
 language: ["English"]
+updated: 2023-05-26
 description: 
   Dedicated to producing research and policy analysis with the focus on foreign policy and national security challenges facing the US.
 ---

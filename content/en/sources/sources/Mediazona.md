@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media publication", "news", "Central Asian media"]
+tags: ["media", "news", "Central Asian media"]
 date_start: [2014]
 date_end: []
 data_type: ["news"] 
 language: ["Russian"]
+updated: 2023-05-26
 description: 
   Mediazona Central Asia covers current events in Kazakhstan, Kyrgyzstan, and Uzbekistan.
 ---

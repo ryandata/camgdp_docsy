@@ -5,11 +5,12 @@ contributor: ["Aizada Arystanbek"]
 date: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
-tags: ["civil society", "general local NGO", "sex education", "youth", "governance", "policy"]
+tags: ["civil society", "sex education", "youth", "government", "policy"]
 date_start: [2005]
 date_end: []
 data_type: ["survey", "quantitative", "qualitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
+updated: 2023-05-26
 description: 
   PaperLab is a public policy research organization in Kazakhstan. PaperLab publishes research, organizes public discussions, and offers training and networking opportunities to Central Asian experts.
 ---
