@@ -159,11 +159,11 @@ url_latest_version = "https://camgdp.org"
 # algolia_docsearch = false
 
 # Enable Lunr.js offline search
-# offlineSearch = false
+offlineSearch = true
 
 # add JSON to the outputs
 [outputs]
-	home = [ "HTML", "JSON", "RSS"]
+	home = [ "HTML", "RSS"]
 	
 rss_sections = ["sources"]
 
@@ -243,6 +243,7 @@ enable = false
 
 # hugo module configuration
 
+theme = "docsy"
 [module]
   # uncomment line below for temporary local development of module
   # replacements = "github.com/google/docsy -> ../../docsy"
