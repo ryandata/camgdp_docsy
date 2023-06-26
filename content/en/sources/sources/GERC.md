@@ -2,7 +2,7 @@
 title: "Gender Economics Research Center"
 linkTitle: "Gender Economics Research Center"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["gender NGO", "education", "COVID 19", "economics", "research", "academic"]
@@ -10,7 +10,7 @@ date_start: [2018]
 date_end: []
 data_type: ["reports", "quantitative"] 
 language: ["Russian", "Kazakh", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Gender Economics Research Center is a research center on gender and economics at Narxoz University, Almaty.
 ---

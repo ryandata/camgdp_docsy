@@ -2,7 +2,7 @@
 title: "Fading.TSE"
 linkTitle: "Fading.TSE"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["cities", "culture", "history", "instagram", "facebook", "tiktok", "telegram"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["qualitative", "narratives", "discourse", "visual", "archives"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Fading.TSE is a grassroots project documenting urban history of Kazakhstan and its capital.
 ---

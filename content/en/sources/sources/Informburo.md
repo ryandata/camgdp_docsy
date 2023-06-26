@@ -2,7 +2,7 @@
 title: "Informburo"
 linkTitle: "Informburo"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["State-affiliated media"]
 tags: ["media", "news"]
@@ -10,7 +10,7 @@ date_start: [2015]
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Informburo offers news coverage, informational and analytical materials.
 ---

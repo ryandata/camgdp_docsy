@@ -2,7 +2,7 @@
 title: "UN Women Country Data Sheet"
 linkTitle: "UN Women Country Data Sheet"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["economics", "politics"]
@@ -10,7 +10,7 @@ date_start: [2019]
 date_end: [2020]
 data_type: ["qualitative", "quantitative"] 
 language: ["English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Breakdown of gender-related data across four main components: economic, social, political, and environmental.
 ---

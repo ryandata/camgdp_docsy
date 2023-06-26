@@ -2,7 +2,7 @@
 title: "Feminist Translocalities"
 linkTitle: "Feminist Translocalities"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["civil society", "feminist NGO", "feminism", "LGBTQ"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["art", "narratives", "discourse"] 
 language: ["English", "Russian"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   A grassroots transnational feminist organization aiming to bring together and support feminist and LGBTQ+ activists from Ukraine, Belarus, and Russia.
 ---

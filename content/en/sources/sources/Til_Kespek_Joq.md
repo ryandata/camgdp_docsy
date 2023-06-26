@@ -2,7 +2,7 @@
 title: "Til Kespek Joq"
 linkTitle: "Til Kespek Joq"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
 tags: ["media", "local media", "news", "telegram", "tiktok", "youtube", "instagram", "twitter"]
@@ -10,7 +10,7 @@ date_start: [2020]
 date_end: []
 data_type: ["news"] 
 language: ["Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: Til Kespek Joq offers coverage of current events in Kazakhstan.
 ---
 

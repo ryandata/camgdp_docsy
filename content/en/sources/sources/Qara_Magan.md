@@ -2,7 +2,7 @@
 title: "Qara Magan"
 linkTitle: "Qara Magan"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["gender NGO", "LGBTQ", "instagram"]
@@ -10,7 +10,7 @@ date_start: [2005]
 date_end: []
 data_type: ["qualitative", "narratives", "discourse", "visual"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Qara Magan is a grassroots project is dedicated to visibility and storytelling of the LGBTQ+ community of Kazakhstan.
 ---

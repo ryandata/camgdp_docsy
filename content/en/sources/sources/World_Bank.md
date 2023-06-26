@@ -2,7 +2,7 @@
 title: "World Bank"
 linkTitle: "World Bank"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 categories: ["INGO"]
 tags: ["population", "health", "law", "economics", "education"]
@@ -10,7 +10,7 @@ date_start: [1960]
 date_end: []
 data_type: ["survey", "interview", "qualitative", "quantitative", "dataset"] 
 language: ["English", "French", "Spanish", "Arabic"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Gender-related data available at the World Bank Gender Data Portal and Women, Business, and the Law Reports.
 ---

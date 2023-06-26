@@ -2,7 +2,7 @@
 title: "Kaz Fem"
 linkTitle: "Kaz Fem"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["feminism", "feminist NGO", "LGBTQ", "activism", "civil society"]
@@ -10,7 +10,7 @@ date_start: [2015]
 date_end: [2022]
 data_type: ["narratives", "discourse", "qualitative"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Grassroots feminist organization dedicated to research and development of feminist theory in Kazakhstan.
 ---

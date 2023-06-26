@@ -2,7 +2,7 @@
 title: "Eurasian Cultural Alliance"
 linkTitle: "Eurasian Cultural Alliance"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["culture", "art"]
@@ -10,7 +10,7 @@ date_start: [2011]
 date_end: []
 data_type: ["qualitative", "discourse", "art"] 
 language: ["Russian", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Eurasian Cultural Alliance is a NGO dedicated to cultivating the contemporary art scene of Kazakhstan.
 ---

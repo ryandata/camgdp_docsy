@@ -2,7 +2,7 @@
 title: "National Commission for Women Affairs and Familial Demographic Policies"
 linkTitle: "National Commission for Women Affairs and Familial Demographic Policies"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]
 tags: ["government", "policy", "documents"]
@@ -10,7 +10,7 @@ date_start: [2006]
 date_end: []
 data_type: ["policy"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   National Commission for Women Affairs and Familial Demographic Policies serves as a consultative and advisory body under the President of the Republic of Kazakhstan
 ---

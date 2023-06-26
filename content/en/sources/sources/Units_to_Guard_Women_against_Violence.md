@@ -2,7 +2,7 @@
 Title: "Units to Guard Women against Violence"
 linkTitle: "Units to Guard Women against Violence"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]
 tags: ["government", "policy", "gender-based violence"]
@@ -11,7 +11,7 @@ date_end: []
 data_type: ["policy", "archive"] 
 title: ["Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence"]
 language: ["Russian", "Kazakh", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   The Republic of Kazakhstan Administrations of Internal Affairs’ Units to Guard Women against Violence is a domestic body on the basis of police work force designed to protect constitutional rights of women, coordinate detention and prosecution processes in the case of the detention of women, and organize work to prevent domestic violence against women.
 ---

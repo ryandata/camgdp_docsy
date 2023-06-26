@@ -2,7 +2,7 @@
 title: "International Organization for Migration"
 linkTitle: "International Organization for Migration"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["migration"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["quantitative", "report"] 
 language: ["English", "Russian"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Geneva, Switzerland-based intergovernmental organization on migration and is a part of the UN system.
 ---

@@ -2,7 +2,7 @@
 title: "UN Women: Europe and Central Asia"
 linkTitle: "UN Women: Europe and Central Asia"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["economics", "gender-based violence", "sustainability"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "descriptive"] 
 language: ["English", "Russian"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Provides an overview of UN initiatives in Kazakhstan.
 ---

@@ -2,7 +2,7 @@
 title: "Soros Kazakhstan Foundation"
 linkTitle: "Soros Kazakhstan Foundation"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["education", "civil society", "human rights", "activism"]
@@ -10,7 +10,7 @@ date_start: [1995]
 date_end: []
 data_type: ["qualitative", "research institute"] 
 language: ["English", "Kazakh", "Russian"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Soros Foundation-Kazakhstan funds multiple scholarship programs, educational courses, and research and activist initiatives.
 ---

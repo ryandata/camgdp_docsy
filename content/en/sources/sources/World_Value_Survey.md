@@ -2,7 +2,7 @@
 title: "World Value Survey"
 linkTitle: "World Value Survey"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["population", "health", "law"]
@@ -10,7 +10,7 @@ date_start: [2010]
 date_end: [2020]
 data_type: ["survey", "quantitative"] 
 language: ["English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Survey of social, political, economic, religious and cultural values across different communities.
 ---

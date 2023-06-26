@@ -2,7 +2,7 @@
 title: "Central Communication Service under the President of the Republic of Kazakhstan"
 linkTitle: "Central Communication Service under the President of the Republic of Kazakhstan"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Government"]
 tags: ["government", "policy", "media"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["policy", "news"] 
 language: ["Russian", "Kazakh", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Central Communication Service under the President of the Republic of Kazakhstan is the official communication service for presidential and state affairs aimed at fostering communication between the government bodies and media.
 ---

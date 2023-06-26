@@ -2,7 +2,7 @@
 title: "Organization for Economic Co-operation and Development (OECD)"
 linkTitle: "Organization for Economic Co-operation and Development (OECD)"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["policy", "report", "population", "health", "education", "economics"]
@@ -10,7 +10,7 @@ date_start: [2017]
 date_end: [2017]
 data_type: ["report", "quantitative"] 
 language: ["English", "French"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Data portal from the UN Population Fund provides gender-related data across six main components: population, sexual and reproductive health, family planning, education, gender, rights, and human capital, and harmful practices.
 ---

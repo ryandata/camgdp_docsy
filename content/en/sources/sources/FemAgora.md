@@ -2,7 +2,7 @@
 title: "FemAgora"
 linkTitle: "FemAgora"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["feminist NGO", "feminism", "activism", "labor", "LGBTQ"]
@@ -10,7 +10,7 @@ date_start: [2018]
 date_end: []
 data_type: ["qualitative", "narratives", "discourse"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   FemAgora is dedicated to fostering transnational feminist solidarity in Central Asia.
 ---

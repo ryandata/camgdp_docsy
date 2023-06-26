@@ -2,7 +2,7 @@
 title: "Eurasianet"
 linkTitle: "Eurasianet"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
 tags: ["media", "news", "international"]
@@ -10,7 +10,7 @@ date_start: [1999]
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Eurasianet offers coverage of current events in Central Asia and South Caucasus.
 ---

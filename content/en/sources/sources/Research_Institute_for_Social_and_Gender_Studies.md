@@ -2,7 +2,7 @@
 title: "Research Institute for Social and Gender Studies"
 linkTitle: "Research Institute for Social and Gender Studies"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["gender NGO", "research", "education"]
@@ -10,7 +10,7 @@ date_start: [2000]
 date_end: []
 data_type: ["qualitative", "quantitative", "reports"] 
 language: ["Russian", "Kazakh", "English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Research Institute for Social and Gender Studies is dedicated to promoting gender and social equality through the implementation of multidisciplinary research projects and social initiatives.
 ---

@@ -2,7 +2,7 @@
 title: "Aiman Umarova’s Rights School"
 linkTitle: "Aiman Umarova’s Rights School"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Local NGO"]
 tags: ["civil society", "gender NGO", "gender-based` violence", "human rights"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["quantitative", "laws"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Grassroots informational platform focusing on the problems of women and girls from socially vulnerable background, including gender-based violence.
 ---

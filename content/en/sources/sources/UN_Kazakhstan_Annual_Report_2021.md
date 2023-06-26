@@ -2,7 +2,7 @@
 title: "UN Kazakhstan Annual Report 2021"
 linkTitle: "UN Kazakhstan Annual Report 2021"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["INGO"]
 tags: ["report"]
@@ -10,7 +10,7 @@ date_start: [2021]
 date_end: [2021]
 data_type: ["overview", "qualitative", "quantitative", "reports"] 
 language: ["English", "Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   The UN’s annual country report.
 ---

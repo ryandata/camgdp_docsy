@@ -2,7 +2,7 @@
 title: "TengriNews"
 linkTitle: "TengriNews"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["State-affiliated media"]
 tags: ["media", "news"]
@@ -10,7 +10,7 @@ date_start: [2016]
 date_end: []
 data_type: ["news", "archive", "policy"] 
 language: ["Russian", "Kazakh"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   TengriNews offers news coverage of current events in Kazakhstan and the world and a database of legislative documents.
 ---

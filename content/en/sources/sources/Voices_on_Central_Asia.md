@@ -2,7 +2,7 @@
 title: "Voices on Central Asia"
 linkTitle: "Voices on Central Asia"
 contributor: ["Aizada Arystanbek"]
-date: 2022-07-27
+created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
 tags: ["media", "news", "Central Asian media", "policy", "research"]
@@ -10,7 +10,7 @@ date_start: []
 date_end: []
 data_type: ["news", "analytics"] 
 language: ["English"]
-updated: 2023-05-26
+date: 2023-05-26
 description: 
   Voices on Central Asia Offers analytical pieces, research insights, policy discussions, fieldwork recollections, photos, charts, and data on Central Asia.
 ---
