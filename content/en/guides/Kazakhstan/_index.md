@@ -23,7 +23,7 @@ For information on issues that often go unrecognized in official state media and
 
 ## Government
 
-Kazakh [Government](/category/government) resources provide many official data series (such as the [Bureau of National Statistics Gender Statistics](http://localhost:1313/sources/sources/bureau_of_national_statistics_gender/)) and sources of official government laws and pronouncements (such as [Ak Orda](/sources/sources/ak_orda/), but may lack in coverage of underrepresented groups or controversial issues.
+Kazakh [Government](/category/government) resources provide many official data series (such as the [Bureau of National Statistics Gender Statistics](/sources/bureau_of_national_statistics_gender/)) and sources of official government laws and pronouncements (such as [Ak Orda](/sources/sources/ak_orda/), but may lack in coverage of underrepresented groups or controversial issues.
 
 ## Media
 
