@@ -3,14 +3,14 @@ title: "PONARS Eurasia"
 linkTitle: "PONARS Eurasia"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["Independent media"]
 tags: ["media", "news", "international", "policy"]
 date_start: [1999]
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "English", "Dutch", "German", "Ukrainian", "French"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   PONARS aims to advance new approaches in research on security, politics, economics, and society in Russia and Eurasia.
 ---

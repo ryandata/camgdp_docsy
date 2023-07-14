@@ -3,14 +3,14 @@ title: "Diplomat (The)"
 linkTitle: "Diplomat (The)"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["Independent media"]
 tags: ["media", "news", "international"]
 date_start: [2002]
 date_end: []
 data_type: ["news"] 
 language: ["English"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Offers coverage of current events in Central Asia.
 ---

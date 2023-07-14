@@ -3,14 +3,14 @@ title: "The Oxus Society for Central Asian Affairs"
 linkTitle: "The Oxus Society for Central Asian Affairs"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["regional NGO"]
 tags: ["academic", "policy", "religion", "politics"]
 date_start: [2020]
 date_end: []
 data_type: ["qualitative", "opinion", "news coverage"] 
 language: ["English", "Russian", "Kazakh", "Kyrgyz", "Uzbek", "Tajik", "Turkmen", "Arabic"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Washington, DC-based NGO aimed at fostering academic exchange between Central Asia and the world
 ---

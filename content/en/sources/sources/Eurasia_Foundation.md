@@ -3,14 +3,14 @@ title: "Eurasia Foundation"
 linkTitle: "Eurasia Foundation"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["INGO"]
 tags: ["civil society", "policy"]
 date_start: [2004]
 date_end: []
 data_type: ["reports", "news"] 
 language: ["English"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   The Eurasia Foundation works with international, national, and local partners for community action.
 ---

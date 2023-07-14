@@ -3,14 +3,14 @@ title: "UN Women Data Hub"
 linkTitle: "UN Women Data Hub"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["INGO"]
 tags: ["migration", "gender-based violence", "sustainability", "disabilities", "economics"]
 date_start: []
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "reports", "survey"] 
 language: ["English"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Provides a list of UN Women publications on Kazakhstan.
 ---

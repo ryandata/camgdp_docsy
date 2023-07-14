@@ -3,14 +3,14 @@ title: "Spotlight Initiative Regional Programme for Central Asia and Afghanistan
 linkTitle: "Spotlight Initiative Regional Programme for Central Asia and Afghanistan"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["INGO"]
 tags: ["development", "gender-based violence"]
 date_start: [2017]
 date_end: []
 data_type: ["overview", "qualitative", "quantitative", "report"] 
 language: ["English", "Spanish", "French"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Research and advocacy campaign dedicated to eliminating sexual and gender-based violence and harmful practices in Central Asia.
 ---

@@ -3,14 +3,14 @@ title: "Prague Civil Society Centre"
 linkTitle: "Prague Civil Society Centre"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["INGO"]
 tags: ["civil society", "journalism"]
 date_start: [2014]
 date_end: []
 data_type: ["reports", "news"] 
 language: ["English"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Dedicated to enabling civic groups and journalists to connect with their communities through grant making, capacity building, and learning
 ---

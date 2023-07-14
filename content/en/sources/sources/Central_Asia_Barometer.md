@@ -3,14 +3,14 @@ title: "Central Asia Barometer"
 linkTitle: "Central Asia Barometer"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["regional NGO"]
 tags: ["economics", "development", "politics", "health"]
 date_start: [2017]
 date_end: [2021]
 data_type: ["survey", "quantitative", "dataset"] 
 language: ["English", "Russian"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Central Asia Barometer is a regional independent NGO for applied social research.
 ---

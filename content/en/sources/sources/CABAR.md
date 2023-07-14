@@ -3,14 +3,14 @@ title: "CABAR"
 linkTitle: "CABAR"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
-countries: ["Kazakhstan"]
+countries: ["Kazakhstan", "Uzbekistan"]
 category: ["Independent media"]
 tags: ["media", "news", "Central Asian media"]
 date_start: [2016]
 date_end: []
 data_type: ["news"] 
 language: ["English", "Russian"]
-date: 2023-05-26
+date: 2023-07-13
 description: 
   Central Asian Bureau for Analytical Reporting (CABAR) offers regional analytical, informational, and educational material on Central Asia.]
 ---
