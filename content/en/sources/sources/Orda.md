@@ -12,7 +12,7 @@ data_type: ["news"]
 language: ["Russian", "Kazakh", "Uzbek"]
 date: 2023-05-26
 description: 
-  Orda offers coverage of current events in Kazakhstan and Uzbekistan, as well as journalistic investigations.
+  Orda offers coverage of current events in Kazakhstan as well as journalistic investigations.
 ---
 
 Founded in 2020, [Orda](https://orda.kz/) offers coverage of current events in Kazakhstan and Uzbekistan, as well as journalistic investigations. 
