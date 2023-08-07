@@ -5,7 +5,7 @@ contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
 countries: ["Uzbekistan"]
 category: ["international media"]
-tags: ["international media", "news", "analytics]
+tags: ["international media", "news", "analytics"]
 date_start: [1976]
 date_end: [2023]
 data_type: ["qualitative", "narratives", "news"]
