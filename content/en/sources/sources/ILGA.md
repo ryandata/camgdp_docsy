@@ -6,12 +6,12 @@ created: 2023-07-19
 countries: ["Uzbekistan", "Kyrgyzstan", "Kazakhstan", "Tajikistan",
 "Turkmenistan"]
 category: ["INGO"]
-tags: ["LGBTQIA", "advocacy"]
+tags: ["LGBTQIA+", "advocacy"]
 date_start: [2019]
 date_end: [2023]
 data_type: ["quantitative", "advocacy", "report"]
 language: ["English"]
-date: 2023-07-30
+date: 2023-08-06
 description:
    International NGO advocating for the protection of LGBTI people and uniting over 600 organizations from 54 countries across Europe and Central Asia
 ---

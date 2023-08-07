@@ -10,7 +10,7 @@ date_start: [2019]
 date_end: [2020]
 data_type: ["qualitative", "quantitative"] 
 language: ["English"]
-date: 2023-05-26
+date: 2023-07-30
 description: 
   Breakdown of gender-related data across four main components: economic, social, political, and environmental.
 ---

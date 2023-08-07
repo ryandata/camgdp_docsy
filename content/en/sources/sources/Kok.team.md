@@ -5,12 +5,12 @@ contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
 countries: ["Kazakhstan"]
 category: ["Independent media"]
-tags: ["media", "local media", "LGBTQ"]
+tags: ["media", "local media", "LGBTQIA+"]
 date_start: [1998]
 date_end: [2022]
 data_type: ["qualitative", "narratives", "discourse", "archive"] 
 language: ["Russian", "Kazakh", "English"]
-date: 2023-05-26
+date: 2023-08-06
 description: 
   Kok.team was a grassroots LGBT organization dedicated to providing information on the LGBT issues in Kazakh.
 ---

@@ -10,7 +10,7 @@ date_start: [2020]
 date_end: []
 data_type: ["news"] 
 language: ["Russian", "Kazakh", "Uzbek"]
-date: 2023-05-26
+date: 2023-07-30
 description: 
   Orda offers coverage of current events in Kazakhstan as well as journalistic investigations.
 ---
