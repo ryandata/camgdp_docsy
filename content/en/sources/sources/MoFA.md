@@ -16,4 +16,6 @@ description:
    Central Asian media collecting and informing about feminist and queer art in the region
 ---
 
-[Central Asian Museum of Feminist and Queer Art (MoFA+)](https://www.instagram.com/femmuseum/) is a grassroots media spotlighting feminist and queer artists from Central Asia. MoFA+ also shares art exhibits, events, and publications on feminist and queer art in Central Asia. It appears to be primarily based at the Kyrgyz National Museum of Fine Arts named after Gapar Aitiev and located in Bishkek.
+[Central Asian Museum of Feminist and Queer Art (MoFA+)](https://www.instagram.com/femmuseum/) 
+
+<!---is a grassroots media spotlighting feminist and queer artists from Central Asia. MoFA+ also shares art exhibits, events, and publications on feminist and queer art in Central Asia. It appears to be primarily based at the Kyrgyz National Museum of Fine Arts named after Gapar Aitiev and located in Bishkek.--->
