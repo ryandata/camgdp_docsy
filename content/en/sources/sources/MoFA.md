@@ -11,7 +11,7 @@ date_start: []
 date_end: [2023]
 data_type: ["qualitative", "narratives"]
 language: ["Russian"]
-date: 2023-08-06
+date: 2023-08-27
 description:
    Central Asian media collecting and informing about feminist and queer art in the region
 ---
