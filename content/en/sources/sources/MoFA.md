@@ -1,21 +1,18 @@
 ---
-title: "Central Asian Museum of Feminist and Queer Art (MoFA+)"
-linkTitle: "Central Asian Museum of Feminist and Queer Art"
+title: "Museum of Contemporary Women's and Queer Art of Central Asia (MoFA+)"
+linkTitle: "Museum of Contemporary Women's and Queer Art of Central Asia"
 contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
-countries: ["Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Tajikistan",
-"Turkmenistan"]
-category: ["regional media"]
+countries: ["Uzbekistan", "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Turkmenistan"]
+category: ["regional NGO"]
 tags: ["art", "culture", "LGBTQIA+"]
 date_start: []
-date_end: [2023]
+date_end: []
 data_type: ["qualitative", "narratives"]
-language: ["Russian"]
-date: 2023-08-27
+language: ["Kyrgyz", "Russian", "English"]
+date: 2023-10-13
 description:
-   Central Asian media collecting and informing about feminist and queer art in the region
+   Museum of women’s and queer art of Central Asia
 ---
 
-[Central Asian Museum of Feminist and Queer Art (MoFA+)](https://www.instagram.com/femmuseum/) 
-
-<!---is a grassroots media spotlighting feminist and queer artists from Central Asia. MoFA+ also shares art exhibits, events, and publications on feminist and queer art in Central Asia. It appears to be primarily based at the Kyrgyz National Museum of Fine Arts named after Gapar Aitiev and located in Bishkek.--->
+[Central Asian Museum of Feminist and Queer Art (MoFA+)](http://femmuseum.org/) is a museum spotlighting feminist and queer artists from Central Asia and advocating for the rights and freedoms of women and LGBTQIA+ community. MoFA+ hosts solo and group exhibits, workshops, and events. The museum also grants art fellowships and is involved in documentary filmmaking. 
