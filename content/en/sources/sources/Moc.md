@@ -4,7 +4,7 @@ linkTitle: "Moc Creative Org"
 contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
 countries: ["Uzbekistan"]
-category: ["NGO"]
+category: ["Local NGO"]
 tags: ["local NGO", "art", "culture"]
 date_start: [2022]
 date_end: [2023]

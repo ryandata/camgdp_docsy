@@ -4,7 +4,7 @@ linkTitle: "Uzbekistan Art and Culture Development Foundation"
 contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
 countries: ["Uzbekistan"]
-category: ["NGO"]
+category: ["Local NGO"]
 tags: ["government", "art", "culture"]
 date_start: []
 date_end: [2023]

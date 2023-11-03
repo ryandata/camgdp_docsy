@@ -5,7 +5,7 @@ contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
 countries: ["Uzbekistan", "Kyrgyzstan", "Kazakhstan", "Tajikistan",
 "Turkmenistan"]
-category: ["NGO"]
+category: ["Local NGO"]
 tags: ["regional NGO", "analytics", "news"]
 date_start: []
 date_end: [2023]

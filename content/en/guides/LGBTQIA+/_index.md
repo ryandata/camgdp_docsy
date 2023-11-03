@@ -8,7 +8,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-  Under development in summer 2023
+  Under development in 2023
 {{% /pageinfo %}}
 
 
