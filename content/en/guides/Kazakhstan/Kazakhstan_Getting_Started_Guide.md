@@ -51,10 +51,12 @@ For example:
 
 ## Local information 
 
-For major cities and provinces, local government and [regional media](/category/regional-media/) and [local media](/category/local-media/) (also mentioned above) may provide additional detail and nuance beyond national sources.
+For major cities and provinces, local government, [regional media](/category/regional-media/), and [local media](/category/local-media/) (also mentioned above) may provide additional detail and nuance beyond national sources.
 
 For example:
 
 - [Akimat of the city of Astana](/sources/sources/akimat_of_the_city_of_astana/) for information on **Astana**, the capital city of Kazakhstan. 
 - [Akimat of the city of Almaty](/sources/sources/akimat_of_the_city_of_almaty/) for information on **Almaty**, the largest city in Kazakhstan.
+
+Created 2023-10-17, updated 2023-12-03
 
