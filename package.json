@@ -20,7 +20,7 @@
     "autoprefixer": "^10.4.14",
     "composer": "^4.1.0",
     "postcss": "^8.4.24",
-    "postcss-cli": "^10.1.0"
+    "postcss-cli": "^11.0.0"
   },
   "dependencies": {
     "bootstrap": "^5.2.3"
