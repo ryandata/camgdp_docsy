@@ -4,5 +4,5 @@ linkTitle: "Казахстан"
 countries: ["Kazakhstan"]
 weight: 1
 description: 
-  Содержание путеводителя по Казахстану
+  Содержание руководсва по Казахстану
 ---
