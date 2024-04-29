@@ -8,7 +8,8 @@ created: 2023-11-21
 date: 2024-04-29
 weight: 1
 description: 
-  Ushbu qoʻllanmada Oʻzbekiston haqida umumiy maʼlumotlar berilgan va Qozogʻiston kontekstida gender muammolari boʻyicha tadqiqotlar muhokama qilingan.
+   Bu ko'rsatma O'zbekiston haqida asosiy ma'lumotlar beradi va O'zbekistonda gender muammolarni tadqiq etish masalalariga oid ma'lumotlar keltiriladi.
+
 ---
 
 ## Kirish
@@ -99,4 +100,4 @@ Quyidagi tanlangan jurnallar markaziy Osiyo bo'ylab jins va jinsiyat haqida tadq
 
 5. [Journal of Contemporary Central and Eastern Europe](https://www.tandfonline.com/journals/cdeb20): Bu jurnal mintaqaga oid turli mavzularda maqolalar nashr etadi, shu jumladan, jins va jinsiyat. U Markaziy Osiyoning jinsiy dinamikalarini va ijtimoiy o'zgarishlarni muhokama qiladigan maqolalarini o'z ichiga olgan bo'lishi mumkin.
 
-Created 2023-10-15, updated 2024-04-29
+Yaratilgan 2023-10-15, Yangilangan 2024-04-29

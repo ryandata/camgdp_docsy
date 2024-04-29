@@ -1,6 +1,6 @@
 ﻿---
-title: "World Value Survey"
-linkTitle: "World Value Survey"
+title: "World Values Survey (KZ)"
+linkTitle: "World Values Survey"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27
 countries: ["Kazakhstan"]
@@ -10,12 +10,12 @@ date_start: [2010]
 date_end: [2020]
 data_type: ["survey", "quantitative"] 
 language: ["English"]
-date: 2023-05-26
+date: 2024-04-29
 description: 
   Survey of social, political, economic, religious and cultural values across different communities.
 ---
 
-[World Value Survey](https://www.worldvaluessurvey.org/WVSOnline.jsp) studies social, political, economic, religious and cultural values. 
+[World Values Survey](https://www.worldvaluessurvey.org/WVSOnline.jsp) studies social, political, economic, religious and cultural values. 
 
 Kazakhstan is included in waves 6 (2010-2014) and 7 (2017-2020). 
 
