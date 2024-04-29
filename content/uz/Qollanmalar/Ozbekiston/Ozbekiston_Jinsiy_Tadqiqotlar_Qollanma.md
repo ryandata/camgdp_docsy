@@ -11,10 +11,6 @@ description:
   Ushbu qoʻllanmada Oʻzbekiston haqida umumiy maʼlumotlar berilgan va Qozogʻiston kontekstida gender muammolari boʻyicha tadqiqotlar muhokama qilingan.
 ---
 
-O'zbekiston Jinsiy Tadqiqotlar Qo'llanma
-
-Bu ko'rsatma O'zbekiston haqida asosiy ma'lumotlar beradi va O'zbekistonda jinsiy muammolarni tadqiq etish masalalariga oid ma'lumotlar keltiriladi.
-
 ## Kirish
 
 Xush kelibsiz O'zbekiston Jinsiy Ma'lumotlar Tadqiqoti Ko'rsatgichiga, bu muhim mavzuni O'zbekistonning unikal madaniy va tarixiy konteksti ichida ko'rsatib berish uchun ishlab chiqilgan manbaga. Markaziy Osiyo yuragini o'rnatilgan mamlakat sifatida, O'zbekiston jins va jinsiyat munosabatlari boyicha o'zining odamlarining tajribalarini shakllantirgan traditsiyalar, obichaylar va ijtimoiy-siyosiy ta'sirlar to'plamiga ega.
