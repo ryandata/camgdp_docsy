@@ -93,9 +93,18 @@ time_format_blog = "2006.01.02"
 
 [languages.kk]
 title = "CAMGDP"
-description = "Орталық Азия мен Моңғолия гендерлік зерттеулер порталы"
+description = "Орталық Азия және Моңғолия гендерлік деректер порталы"
+# description = "Орталық Азия мен Моңғолия гендерлік зерттеулер порталы"
 languageName ="Қазақша"
 contentDir = "content/kk"
+time_format_default = "2006.01.02"
+time_format_blog = "2006.01.02"
+
+[languages.uz]
+title = "CAMGDP"
+description = "Markaziy Osiyo va Mongoliya gender ma'lumotlari portali"
+languageName ="Oʻzbekcha"
+contentDir = "content/uz"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
