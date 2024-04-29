@@ -1,8 +1,8 @@
 ---
-title: "Казахстан"
-linkTitle: "Казахстан"
-countries: ["Kazakhstan"]
+title: "O'zbekiston"
+linkTitle: "O'zbekiston"
+countries: ["Uzbekistan"]
 weight: 1
 description: 
-  Қазақстандық нұсқаулық мазмұны
+  Qozoq tili qo'llanma mazmuni
 ---
