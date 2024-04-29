@@ -37,7 +37,7 @@ Rossiya imperializmi Markaziy Osiyoga 19-asr oxirida qo‘llanib, mintaqani nazo
 
 Rossiya kolonial hukmi O‘zbekistonda chuqur o‘zgarish va tartibsizlik davrini boshladi. Asliy jamiyat, iqtisodiy va siyosiy tuzumlar buzildi, va mahalliy aholi Rossiya hukmidagi masshtabli diskriminatsiya va esirlikka duch keldi. Kolonial hukumatning qo‘llanilishi, resurslarni ajratish bilan bog‘liq, masalan, Amerika fuqarolar urushi yurishgan importdan chiqarilgan paxta istehsaliga e’tibor qaratilish, yashash uslublari buzildi va iqtisodiy istismorga olib kelgan.
 
-ahon urushi bilan birga, 1922-yilda Sovet Ittifoqi tashkil etilishiga qadar holat o‘zgardi. O‘zbekiston, boshqa Markaziy Osiyo respublikalari kabi, Sovet etkazib qo‘yuvining qismiga aylanib oldi. Sovet rejimi modenisatsiyani va sanoatlashtirishni kiritdi, lekin uni bu sodda va markaziylashtirilgan tizim ostida qilgan, bu esa ayollar ko‘rsatmasining majburiy ochilishini (ijtimoiiy va madaniy yangilanishni) o‘z ichiga olgan edi. Bu oftob Moskva prioritetaiga mos keladi.
+Ahon urushi bilan birga, 1922-yilda Sovet Ittifoqi tashkil etilishiga qadar holat o‘zgardi. O‘zbekiston, boshqa Markaziy Osiyo respublikalari kabi, Sovet etkazib qo‘yuvining qismiga aylanib oldi. Sovet rejimi modenisatsiyani va sanoatlashtirishni kiritdi, lekin uni bu sodda va markaziylashtirilgan tizim ostida qilgan, bu esa ayollar ko‘rsatmasining majburiy ochilishini (ijtimoiiy va madaniy yangilanishni) o‘z ichiga olgan edi. Bu oftob Moskva prioritetaiga mos keladi.
 
 Sovet kolonializmi O‘zbekistonda bir nechta asosiy ko‘rsatgichlar bilan ajraladi. Birinchi navbatda, bu qishloq xo‘jaligini majburiy jamoatlashtirishni o‘z ichiga olgan, bu esa gelenekiy qishloq xo‘jaligini buzdi va rivojlanishiga yetkazgan sharhiy iqtisodiy tashviqotlarga olib kelgan. Xususan, suvni sarflangan va mehnatkech turli ekin paxtasidan kelib chiqqanida, bu Orol dengizini quruqtirishiga olib kelgan va Karakalpakistan bilan o‘roq muammolari yaratgan, shuningdek mehmon qaydalar bilan majburiy mehnat (korve) orqali paxta to‘plash ishlariga davom etishiga olib kelgan, xususan ayollar va bolalar tasir etadi. Ikkinchisi, Sovet hatiflari rusifikatsiyani boshladi, bu yerli madaniyatlarni va tillarni rus tilining ustuvorligiga qarshi olib tashlashni maqsad qildi. Qadimgi arab yozuvi, 1000-yillar ortidan boshlab o‘zbek tilini yozish uchun ishlatilgan, 1940-yillarga qadar Kirill alifbosi o‘zbek tiliga o‘tishdi. Bundan tashqari, O‘zbekiston, boshqa Sovet respublikalari kabi, Sovet rejimi ostida repressiya, tsenzura va inson huquqlariga buzilishlar tuyg‘usini tajrib qildi. Bo‘zorchi jazolar bilan chetlashtirilgan ihtiloflariga qarshi kurashildi, va mahalliy aholi siyosiy va iqtisodiy ishlarida cheklanib qoldi. Sovet iqtisodiy tizimi va paxta asosida amal qilingan qo‘zg‘olonchi iqtisodiy tizimning hamkorligi Sovet davlatida umumiy ravishda muhim muammo borligini 1980-yillar bilan butunlay ko‘rsatdi. 
 
@@ -81,13 +81,13 @@ Bundan tashqari, ijtimoiy stigmatizatsiya va diskriminatsiya LGBTQIA+ jamiyatlar
 
 Izoh: Arxiv materiallari mavjudligi va ularning qiyinliklari farq qilishi mumkin, va eng yangi ma'lumotlar uchun shaxslar bilan to'g'ridan-to'g'ri bog'lanish yoki ularning veb-saytlarini tekshirish maslahat beriladi.
 
-1. O'zbekiston Milliy Kutubxonasi: O'zbekiston Milliy Kutubxonasi, Toshkentda joylashgan, O'zbekiston tarixidagi ayollar tarixiga oid hujjatlarni va manbalarini saqlash mumkin. Ularning kitoblar, manbalar va arxiv materiallardan iborat keng asortimentli kollektsiyasi mavjud.
+1. [O'zbekiston Milliy Kutubxonasi](/sources/sources/national_library_uz/): O'zbekiston Milliy Kutubxonasi, Toshkentda joylashgan, O'zbekiston tarixidagi ayollar tarixiga oid hujjatlarni va manbalarini saqlash mumkin. Ularning kitoblar, manbalar va arxiv materiallardan iborat keng asortimentli kollektsiyasi mavjud.
 
-2. O'zbekiston Milliy Ilmijotlar Institut: Bu tadqiqot instituti, O'zbekiston tarixidagi ayollarning roli, madaniyati va jamiyatiga oid tarixiy tadqiqotlar va nashrlarga ega bo'lishi mumkin.
+2. [O'zbekiston Milliy Ilmijotlar Institut](/sources/sources/institute_of_oriental_studies/): Bu tadqiqot instituti, O'zbekiston tarixidagi ayollarning roli, madaniyati va jamiyatiga oid tarixiy tadqiqotlar va nashrlarga ega bo'lishi mumkin.
 
-3. O'zbekiston Oilaviy va Ayollar Kengashi: O'zbekiston Ayollar Kengashi, O'zbekiston ayollarining muammolari, muvaffaqiyatlari va o'zgartirishlari bilan bog'liq arxivlarni yoki resurslarni saqlash mumkin.
+3. [O'zbekiston Oilaviy va Ayollar Kengashi](/sources/sources/family_and_womens_committee/): O'zbekiston Ayollar Kengashi, O'zbekiston ayollarining muammolari, muvaffaqiyatlari va o'zgartirishlari bilan bog'liq arxivlarni yoki resurslarni saqlash mumkin.
 
-4. Universitet kutubhonalari: O'zbekistondagi universitetlar, masalan, O'zbekiston Milliy Universiteti, O'zbekiston tarixidagi ayollar va jins tadqiqotlari bilan bog'liq maxsus kolleksiyalarga va arxivlarga ega bo'lishi mumkin. 
+4. [Universitet kutubhonalari](https://library.nuu.uz/): O'zbekistondagi universitetlar, masalan, O'zbekiston Milliy Universiteti, O'zbekiston tarixidagi ayollar va jins tadqiqotlari bilan bog'liq maxsus kolleksiyalarga va arxivlarga ega bo'lishi mumkin. 
 
 ## Akademik jurnallar
 
