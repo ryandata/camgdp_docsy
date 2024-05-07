@@ -4,5 +4,5 @@ linkTitle: "O'zbekiston"
 countries: ["Uzbekistan"]
 weight: 1
 description: 
-  Qozoq tili qo'llanma mazmuni
+  O‘zbek qo‘llanmasining mazmuni
 ---

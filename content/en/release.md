@@ -1,30 +1,26 @@
 ---
-title: "CAMGDP Relase History"
+title: "CAMGDP Release History"
 linkTitle: "CAMGDP Release History"
-date: 2023-01-07
+date: 2024-05-24
 description:
   the Release History of CAMGDP
 ---
 
 <pre>
- 
- 
- 
- 
- 
+
 </pre>
 
 # Release History
 
 **0.1** Prerelease status.  Under development from summer 2022, including research on Kazakhstan and site structure creation.
 
-**0.2** First public release, 2023-05-19, prior to IASSIST Annual Conference presentation
+**0.2** First public release, 2023-05-19, prior to IASSIST Annual Conference 2023 (Philadelphia)
+
+**0.3** Uzbekistan resources included, along with major international sites, 2023-05-24, prior to IASSIST 2024 (Halifax) and CESS 2024 (Almaty)
 
 ## Future planned releases
 
-**0.3** Uzbekistan resources included (targeted by September 2023)
-
-**0.4** Mongolia resources included (by summer 2024)
+**0.4** Mongolia resources (beginning summer 2024)
 
 **0.5**	Turkmenistan (tentative order)
 

@@ -17,6 +17,8 @@ Xalqaro davlat tomonidan e’mas tashkilotlar ([XDTTOlar](/category/ingo)) odatd
 
 Masalan: 
 
+UN Development Program in Uzbekistan http://localhost:1313/sources/sources/un_uz/
+
 ## Mahalliy davlat tomonidan e’mas tashkilotlar (Mahalliy DTTOlar) 
 Ofitsial davlat media va davlat hokimiyat manbalari tomonidan tez-tez tan'oilmaydigan, masalan, feminist aktivizm va LGBTQ mavzulari haqida ma'lumotlar uchun, [mahalliy DTTOlar](/category/local-ngo) bo'sh joylarni to'ldirishi mumkin. Ular oft-gina va maqsadli mazmunlarda va guruhlar asosida tashkil etiladi.
 
@@ -24,7 +26,7 @@ Masalan:
 
 ## Hukumat
 
-[Hukumat](/category/government) resurslari ko'plab rasmiy ma'lumotlar ketma-ketligini va qonunlar bilan tasdiqlangan hukumatning rasmiy e'lonlari va buyruqlarini takomillashtiradi, lekin undoshlar toifalari yoki baholangan mamlakatning muzlatilari bo'yicha ma'lumotlar kavraydi. Odatda, hukumat boshqaruv organi yalpi ma'lumotlar yig'ilishiga va qo'llab-quvvatlashishga majburlab bo'lganlik, masalan, Milliy Tarmoqlash va boshqa katta miqyosdagi loyihalarga qatnashish uchun resurslarga ega bo'lishidir. Biroq, hukumatning rasmiy roli ko'plab mavzular, masalan, siyosat, diniylik, jinsiy va jins ifodasi, millat identifikatsiyasi va boshqalar bo'yicha fikr va harakatlarni boshqarishda ma'lumotlarni to'plash va ma'lumotlarni topshirish bo'yicha ishtirokni qo'llab-quvvatlashi mumkin. 
+[Hukumat](/category/government) resurslari ko'plab rasmiy ma'lumotlar ketma-ketligini va qonunlar bilan tasdiqlangan hukumatning rasmiy e'lonlari va buyruqlarini takomillashtiradi, lekin undoshlar toifalari yoki baholangan mamlakatning muzlatilari bo'yicha ma'lumotlar kavraydi. Odatda, hukumat boshqaruv organi yalpi ma'lumotlar yig'ilishiga va qo'llab-quvvatlashishga majburlab bo'lganlik, masalan, Milliy Tarmoqlash va boshqa katta miqyosdagi loyihalarga qatnashish uchun resurslarga ega bo'lishidir. Biroq, hukumatning rasmiy roli ko'plab mavzular, masalan, siyosat, diniylik, gender va jins ifodasi, millat identifikatsiyasi va boshqalar bo'yicha fikr va harakatlarni boshqarishda ma'lumotlarni to'plash va ma'lumotlarni topshirish bo'yicha ishtirokni qo'llab-quvvatlashi mumkin. 
 
 Masalan: 
 
@@ -41,4 +43,4 @@ Katta shaharlar va viloyatlar uchun, [mahalliy hokumat](/category/regional-media
 
 Masalan:
 
-Yaratilgan 2023-11-21, Yangilangan 2024-04-29
+Yaratilgan 2023-11-21, Yangilangan 2024-05-06
