@@ -5,12 +5,12 @@ contributor: ["Aizada Arystanbek"]
 created: 2023-07-19
 countries: ["Uzbekistan"]
 category: ["Podcast", "social media"]
-tags: ["business", "politics", "economy"]
+tags: ["business", "politics", "economics"]
 date_start: [2022]
 date_end: [2023]
 data_type: ["qualitative", "narratives", "oral histories"]
 language: ["Uzbek"]
-date: 2023-08-06
+date: 2024-05-22
 description:
    Podcast platform sharing life experience and educational information from Uzbek women in various career fields
 ---

@@ -16,7 +16,7 @@ description:
 
 **0.2** First public release, 2023-05-19, prior to IASSIST Annual Conference 2023 (Philadelphia)
 
-**0.3** Uzbekistan resources included, along with major international sites, 2023-05-24, prior to IASSIST 2024 (Halifax) and CESS 2024 (Almaty)
+**0.3** Uzbekistan resources included, along with major international sites, 2024-05-24, prior to IASSIST 2024 (Halifax) and CESS 2024 (Almaty)
 
 ## Future planned releases
 

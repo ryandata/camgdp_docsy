@@ -51,7 +51,7 @@ Domestic violence remains a critical issue in Uzbekistan. Cultural norms, couple
 
 Despite these challenges, there are active women's rights activists and organizations in Uzbekistan working diligently to raise awareness about gender issues, empower women, and advocate for meaningful change. Their efforts are crucial in promoting gender equality and challenging deeply ingrained societal norms.
 
-## LGBTQIA+ Rights in Uzbekistan
+## LGBTQIA+ rights in Uzbekistan
 
 Uzbekistan maintains a conservative stance on LGBTQIA+ rights, making the situation for LGBTQIA+ individuals particularly challenging. Homosexuality is illegal in Uzbekistan and is punishable by imprisonment. Thus, the country lacks legal recognition or protection for same-sex relationships, leaving LGBTQIA+ individuals vulnerable to discrimination and harassment. They face societal stigmatization and often keep their sexual orientation concealed to avoid discrimination.
 
