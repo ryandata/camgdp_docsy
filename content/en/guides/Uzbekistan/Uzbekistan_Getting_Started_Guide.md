@@ -37,7 +37,7 @@ For example:
 
 ## Media
 
-While [state-affiliated media](/category/state-affiliated-media/) and [state-media](/category/state-media/) offer mainstream perspectives, while [regional media](/category/regional-media/) and [local media](/category/local-media/) can provide a closer focus on smaller groups. [Independent media](/category/independent-media/) can deliver alternative viewpoints, and [social media](/category/social-media/) can tap directly into current opinion and provide insight into topics omitted in other sources,
+While [state-affiliated media](/category/state-affiliated-media/) and [state-media](/category/state-media/) offer mainstream perspectives, while [regional media](/category/regional-media/) and [local media](/category/local-media/) can provide a closer focus on smaller groups. [Independent media](/category/independent-media/) can deliver alternative viewpoints, and [social media](/category/social-media/) can tap directly into current opinion and provide insight into topics omitted in other sources.
 
 For example:
 

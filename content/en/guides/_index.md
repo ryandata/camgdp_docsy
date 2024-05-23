@@ -13,8 +13,3 @@ cascade:
 {{% pageinfo %}}
 The **Guides** section of the CAMGDP site provides interpretive overviews of the resources available by Country and selected Themes.
 {{% /pageinfo %}}
-
-
-The **Guides** section of the CAMGDP site provides interpretive overviews of the resources available by Country and selected Themes.
-
-
