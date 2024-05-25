@@ -27,7 +27,6 @@ data_type = "data_type"
 language = "language"
 contributor = "contributor"
 
-
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
 taxonomyCloud = ["countries", "category", "tags", "language", "contributor"] 
@@ -236,7 +235,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
-  url = "https://github.com/ryandata/camgdp"
+  url = "https://github.com/ryandata/camgdp_docsy"
   icon = "fab fa-github"
   desc = "content repository for CAMGDP"
 [[params.links.developer]]

@@ -31,7 +31,7 @@ Kazakh media sources will be highlighted here.
 
 Uzbek media sources will be highlighted here.
 
-* [LGBTQ](/guides/lgbtq): guide to LGBTQ material
+* [LGBTQIA+](/guides/lgbtqia+): guide to LGBTQ material
 * [Kazakhstan](/guides/kazakhstan): guide to resources on Kazakhstan
 * [Uzbekistan](/guides/uzbekistan): guide to resources on Uzbekistan
 
