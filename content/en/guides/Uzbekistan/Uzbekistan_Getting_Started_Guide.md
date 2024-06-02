@@ -1,7 +1,7 @@
 ---
 title: "Uzbekistan Getting Started Guide"
 linkTitle: "Uzbekistan Getting Started Guide"
-countries: ["Kazakhstan"]
+countries: ["Uzbekistan"]
 contributor: ["Ryan Womack"]
 tags: ["guides"]
 created: 2023-10-17
