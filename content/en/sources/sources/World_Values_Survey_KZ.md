@@ -1,5 +1,5 @@
 ﻿---
-title: "World Values Survey (KZ)"
+title: "World Values Survey (Kazakhstan)"
 linkTitle: "World Values Survey"
 contributor: ["Aizada Arystanbek"]
 created: 2022-07-27

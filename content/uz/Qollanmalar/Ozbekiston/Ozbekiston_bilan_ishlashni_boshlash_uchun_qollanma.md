@@ -2,7 +2,7 @@
 title: "O'zbekiston Bilan Ishlashni Boshlash Uchun Qo'llanma"
 linkTitle: "O'zbekiston Bilan Ishlashni Boshlash Uchun Qo'llanma"
 countries: ["Uzbekistan"]
-contributor: ["Aizada Arystanbek"]
+contributor: ["Ryan Womack"]
 tags: ["guides"]
 created: 2023-11-21
 date: 2023-12-06
@@ -17,12 +17,17 @@ Xalqaro davlat tomonidan e’mas tashkilotlar ([XDTTOlar](/category/ingo)) odatd
 
 Masalan: 
 
-UN Development Program in Uzbekistan http://localhost:1313/sources/sources/un_uz/
+- [World Values Survey (Uzbekistan)](https://camgdp.org/sources/sources/world_values_survey_uz/)
+- [World Economic Forum's Global Gender Gap Report](/sources/sources/wef_global_gender_gap_report/)
+- [UN Development Program in Uzbekistan](/sources/sources/un_uz/)
 
 ## Mahalliy davlat tomonidan e’mas tashkilotlar (Mahalliy DTTOlar) 
 Ofitsial davlat media va davlat hokimiyat manbalari tomonidan tez-tez tan'oilmaydigan, masalan, feminist aktivizm va LGBTQ mavzulari haqida ma'lumotlar uchun, [mahalliy DTTOlar](/category/local-ngo) bo'sh joylarni to'ldirishi mumkin. Ular oft-gina va maqsadli mazmunlarda va guruhlar asosida tashkil etiladi.
 
 Masalan: 
+
+- [NeMolchi.UZ](/sources/sources/nemolchi_uz/)
+- [FemAgora](/sources/sources/femagora/)
 
 ## Hukumat
 
@@ -30,6 +35,8 @@ Masalan:
 
 Masalan: 
 
+- [Statistics Agency under the President of the Republic of Uzbekistan](/sources/sources/statistics_agency/)
+- [Family and Women's Committee of Uzbekistan](/sources/sources/family_and_womens_committee/)
 
 ## Ommaviy axborot vositalari
 
@@ -37,10 +44,16 @@ Masalan:
 
 Masalan: 
 
+- [Uzbekistan National News Agency](/sources/sources/uza/)
+- [Loyiha](/sources/sources/loyiha/)
+
 ## Mahalliy ma'lumotlar
 
 Katta shaharlar va viloyatlar uchun, [mahalliy hokumat](/category/regional-media/) va mintaqaviy media va [mahalliy media](/category/local-media/) (yuqoridagi keltirilgan) milliy manbalardan tashqari qo'shimcha tafsilot va nuanslarni taqdim etishi mumkin.
 
 Masalan:
 
-Yaratilgan 2023-11-21, Yangilangan 2024-05-06
+- [Against Frotterizm](/sources/sources/against_frotterizm/)
+- [Ayol buyum emas](/sources/sources/ayol_buyum_emas/)
+
+Yaratilgan 2023-11-21, Yangilangan 2024-06-02

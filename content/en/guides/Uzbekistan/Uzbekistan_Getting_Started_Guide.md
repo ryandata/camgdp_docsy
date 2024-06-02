@@ -5,7 +5,7 @@ countries: ["Uzbekistan"]
 contributor: ["Ryan Womack"]
 tags: ["guides"]
 created: 2023-10-17
-date: 2023-11-02
+date: 2024-06-02
 weight: 1
 description: 
   This guide highlights selected resources in major information categories for Uzbekistan.
@@ -17,7 +17,9 @@ International non-governmental organizations ([INGOs](/category/ingo)) typically
 
 For example:
 
-- 
+- [World Values Survey (Uzbekistan)](https://camgdp.org/sources/sources/world_values_survey_uz/)
+- [World Economic Forum's Global Gender Gap Report](/sources/sources/wef_global_gender_gap_report/)
+- [UN Development Program in Uzbekistan](/sources/sources/un_uz/)
 
 ## Local non-governmental organizations (Local NGOs)
 
@@ -25,7 +27,8 @@ For information on issues that often go unrecognized in official state media and
 
 For example:
 
-- 
+- [NeMolchi.UZ](/sources/sources/nemolchi_uz/)
+- [FemAgora](/sources/sources/femagora/)
 
 ## Government
 
@@ -33,7 +36,8 @@ For example:
 
 For example:
 
-- 
+- [Statistics Agency under the President of the Republic of Uzbekistan](/sources/sources/statistics_agency/)
+- [Family and Women's Committee of Uzbekistan](/sources/sources/family_and_womens_committee/)
 
 ## Media
 
@@ -41,7 +45,9 @@ While [state-affiliated media](/category/state-affiliated-media/) and [state-med
 
 For example:
 
-- 
+- [Uzbekistan National News Agency](/sources/sources/uza/)
+- [Loyiha](/sources/sources/loyiha/)
+
 
 ## Local information 
 
@@ -49,5 +55,8 @@ For major cities and provinces, local government and [regional media](/category/
 
 For example:
 
-- 
+- [Against Frotterizm](/sources/sources/against_frotterizm/)
+- [Ayol buyum emas](/sources/sources/ayol_buyum_emas/)
+
+
 
