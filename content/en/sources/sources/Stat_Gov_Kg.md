@@ -5,9 +5,9 @@ contributor: ["Ryan Womack"]
 created: 2025-05-07
 countries: ["Kyrgyzstan"]
 category: ["Government"]
-tags: ["government", "statistics", demographics"]
+tags: ["economics", "government", "migration", "population", "statistics"]
 dates: []
-data_type: ["report"]
+data_type: ["statistics"]
 language: ["English", "Kyrgyz", "Russian"]
 date: 2025-05-07
 description: 
