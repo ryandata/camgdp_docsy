@@ -1,28 +1,27 @@
 ---
-title: "National Statistical Committee of the Uzbek Republic"
-linkTitle: "Stat.Gov.Kg"
+title: "National Statistics Committee of the Republic of Uzbekistan"
+linkTitle: "Stat.Uz"
 contributor: ["Ryan Womack"]
-created: 2025-05-07
+created: 2025-05-26
 countries: ["Uzbekistan"]
 category: ["Government"]
 tags: ["economics", "government", "migration", "population", "statistics"]
 dates: []
 data_type: ["statistics"]
 language: ["English", "Uzbek", "Russian"]
-date: 2025-05-26
+date: 2025-05-27
 description: 
-  The National Statistical Committee of the Uzbek Republic provides fundamental economic, social, and other demographic statistics about Uzbekistan
+  The National Statistics Committee of the Republic of Uzbekistan provides fundamental economic, social, and other demographic statistics about Uzbekistan
 ---
 
 data.egov.uz
-stat.uz
 siat.stat.uz
 
-The [National Statistical Committee of the Uzbek Republic](https://stat.gov.uz) provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available. 
+The [National Statistics Committee of the Republic of Uzbekistan](https://stat.uz) provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available. 
 
 Statistics are available as downloadable tables in Excel format and as publications, including a special section on [Gender Statistics](https://stat.gov.uz/en/gendernaya-statistika/).
 
-Publications include the [Statistical Yearbook of the Kyrgyz Republic](https://stat.gov.uz/en/publications/statisticheskij-ezhegodnik-kyrgyzskoj-respubliki/), [Social Trends of the Uzbek Republic](https://stat.gov.uz/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/), [Women and Men in the Uzbek Republic](https://stat.gov.uz/en/publications/sbornik-zhenshiny-i-muzhchiny-kyrgyzskoj-respubliki/), and many other regular and special publications available for download.
+Publications include the [Statistical Yearbook of the Republic of Uzbekistan](https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan), [Social Trends of the Uzbek Republic](https://stat.gov.uz/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/), [Women and Men](https://stat.uz/en/publications/3642-women-and-men), and many other regular and special publications available for download.
 
 A special [Open Data](https://stat.gov.uz/en/opendata/) section provides downloadable data in additional formats (XML, JSON, and Excel).
 
