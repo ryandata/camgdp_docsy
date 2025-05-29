@@ -9,22 +9,17 @@ tags: ["economics", "government", "migration", "population", "statistics"]
 dates: []
 data_type: ["statistics"]
 language: ["English", "Uzbek", "Russian"]
-date: 2025-05-27
+date: 2025-05-29
 description: 
   The National Statistics Committee of the Republic of Uzbekistan provides fundamental economic, social, and other demographic statistics about Uzbekistan
 ---
 
-data.egov.uz
-siat.stat.uz
-
 The [National Statistics Committee of the Republic of Uzbekistan](https://stat.uz) provides fundamental economic, social, and other demographic statistics about Uzbekistan. Education, healthcare, economy, population, employment, and living standards are among the many categories of data available. 
 
-Statistics are available as downloadable tables in Excel format and as publications, including a special section on [Gender Statistics](https://stat.gov.uz/en/gendernaya-statistika/).
+Statistics are available as downloadable tables in Excel format and as publications, including a special section on [Gender Statistics](https://gender.stat.uz/) ([also described on CAMGDP](https://camgdp.org/sources/sources/gender_stat_uz/)).
 
-Publications include the [Statistical Yearbook of the Republic of Uzbekistan](https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan), [Social Trends of the Uzbek Republic](https://stat.gov.uz/en/publications/publikaciya-socialnye-tendencii-kyrgyzskoj-respubliki/), [Women and Men](https://stat.uz/en/publications/3642-women-and-men), and many other regular and special publications available for download.
+[Publications](https://stat.uz/en/publications) include [Women and Men in Uzbekistan: Facts and Figures](https://gender.stat.uz/en/2020-11-09-06-11-08/women-var-men-in-uzbekistan-facts-and-figures).  The [Statistical Yearbook of the Republic of Uzbekistan](https://stat.uz/en/publications/3627-statistical-yearbook-of-the-republic-of-uzbekistan) and other publications are available for purchase, with only their tables of contents freely viewable. Quarterly reports and other frequently updated releases are typically freely downloadable.
 
-A special [Open Data](https://stat.gov.uz/en/opendata/) section provides downloadable data in additional formats (XML, JSON, and Excel).
+A special [Open Data](https://stat.uz/en/official-statistics/official-statistics-calendar#) section provides downloadable data in additional formats (Excel, CSV, PDF, XML, JSON). The [Open Data Portal](https://data.egov.uz/) is [also described on CAMGDP](https://camgdp.org/sources/sources/data_egov_uz/).
 
-Extensive information about definitions, methodologies, and updates is generally available for the data collected. An [online learning](https://www.stat.gov.uz/ru/rmc/institut/) section provides another avenue for learning about the data.
-
-The site is navigable in Uzbek, Russian, and English. Most downloads of publications and tables are in Russian.
+The site is navigable in Uzbek, Russian, and English, with most downloadable data tables also available in these languages.

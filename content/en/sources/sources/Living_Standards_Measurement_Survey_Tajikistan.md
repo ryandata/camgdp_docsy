@@ -10,9 +10,9 @@ date_start: [1999]
 date_end: [2009]
 data_type: ["quantitative", "survey"] 
 language: ["English"]
-date: 2024-05-22
+date: 2025-05-29
 description: 
-  Living Standards Measurement Study (LSMS) by the World Bank, data for Kyrgyzstan
+  Living Standards Measurement Study (LSMS) by the World Bank, data for Tajikistan
 ---
 
 The [Living Standards Measurement Study (LSMS)](https://www.worldbank.org/en/programs/lsms) is the World Bank's flagship household survey program focused on strengthening household survey systems in client countries and on improving the quality of microdata to better inform development policies. The LSMS is housed in the Data Production and Methods Unit of the World Bank’s Development Data Group.
