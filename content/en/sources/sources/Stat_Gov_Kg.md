@@ -1,6 +1,6 @@
 ---
 title: "National Statistical Committee of the Kyrgyz Republic"
-linkTitle: "Stat.Gov.Kg"
+linkTitle: "National Statistical Committee of the Kyrgyz Republic"
 contributor: ["Ryan Womack"]
 created: 2025-05-07
 countries: ["Kyrgyzstan"]

@@ -72,38 +72,43 @@ anchor = "smart"
 # Language configuration
 
 [languages]
+
 [languages.en]
-title = "CAMGDP"
-description = "Central Asia and Mongolia Gender Data Portal"
 languageName ="English"
 contentDir = "content/en"
+[languages.en.params]
+title = "CAMGDP"
+description = "Central Asia and Mongolia Gender Data Portal"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 # Weight used for sorting.
 weight = 1
 
 [languages.ru]
-title = "CAMGDP"
-description = "Портал гендерных данных Центральной Азии и Монголии"
 languageName = "Русский"
 contentDir = "content/ru"
+[languages.ru.params]
+title = "CAMGDP"
+description = "Портал гендерных данных Центральной Азии и Монголии"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
 [languages.kk]
+languageName ="Қазақша"
+contentDir = "content/kk"
+[languages.kk.params]
 title = "CAMGDP"
 description = "Орталық Азия және Моңғолия гендерлік деректер порталы"
 # description = "Орталық Азия мен Моңғолия гендерлік зерттеулер порталы"
-languageName ="Қазақша"
-contentDir = "content/kk"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
 [languages.uz]
-title = "CAMGDP"
-description = "Markaziy Osiyo va Mongoliya gender ma'lumotlari portali"
 languageName ="Oʻzbekcha"
 contentDir = "content/uz"
+[languages.uz.params]
+title = "CAMGDP"
+description = "Markaziy Osiyo va Mongoliya gender ma'lumotlari portali"
 time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
@@ -142,7 +147,7 @@ archived_version = false
 # The version number for the version of the docs represented in this doc set.
 # Used in the "version-banner" partial to display a version number for the 
 # current doc set.
-version = "0.2"
+version = "0.3"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
@@ -172,18 +177,13 @@ offlineSearch = true
 # add JSON to the outputs
 [outputs]
 	home = [ "HTML", "RSS"]
-	
-rss_sections = ["sources"]
-
-# Enable syntax highlighting and copy buttons on code blocks with Prism
-prism_syntax_highlighting = false
 
 # User interface configuration
 [params.ui]
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 # Set to true to disable the About link in the site footer
-footer_about_disable = false
+footer_about_enable = true
 # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
 navbar_logo = true
 # Set to true if you don't want the top navbar to be translucent when over a `block/cover`, like on the homepage.
@@ -274,9 +274,17 @@ theme = "docsy"
     disable = true
   [privacy.instagram]
     disable = true
-  [privacy.twitter]
+  [privacy.x]
     disable = true
   [privacy.vimeo]
     disable = true
   [privacy.youtube]
     disable = true
+    
+    
+# these appear to be deprecated options
+
+# rss_sections = ["sources"]
+
+# Enable syntax highlighting and copy buttons on code blocks with Prism
+# prism_syntax_highlighting = false

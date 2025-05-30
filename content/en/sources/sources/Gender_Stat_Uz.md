@@ -1,6 +1,6 @@
 ---
-title: "National Statistics Committee of the Republic of Uzbekistan"
-linkTitle: "Gender.Stat.Uz"
+title: "State Gender Statistics of the Republic of Uzbekistan"
+linkTitle: "State Gender Statistics of the Republic of Uzbekistan"
 contributor: ["Ryan Womack"]
 created: 2025-05-26
 countries: ["Uzbekistan"]

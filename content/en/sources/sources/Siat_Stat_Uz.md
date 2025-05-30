@@ -1,6 +1,6 @@
 ---
 title: "SIAT Integrated Information System (Uzbekistan)"
-linkTitle: "Siat.Stat.Uz"
+linkTitle: "SIAT Integrated Information System (Uzbekistan)"
 contributor: ["Ryan Womack"]
 created: 2025-05-26
 countries: ["Uzbekistan"]

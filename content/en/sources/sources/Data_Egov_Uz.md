@@ -1,17 +1,17 @@
 ---
 title: "Open Data Portal of the Republic of Uzbekistan"
-linkTitle: "Data.Egov.Uz"
+linkTitle: "Open Data Portal of the Republic of Uzbekistan"
 contributor: ["Ryan Womack"]
 created: 2025-05-26
 countries: ["Uzbekistan"]
 category: ["Government"]
-tags: ["datasets", "economics",  "education". "government", "open data", "population", "statistics"]
+tags: ["datasets", "economics",  "education", "government", "open data", "population", "statistics"]
 dates: []
 data_type: ["datasets"]
 language: ["English", "Uzbek", "Russian"]
 date: 2025-05-29
 description: 
-  The Open Data Portal of the Republic of Uzbekistan provides access to over 10,000 datasets on various aspects of the country.
+  The Open Data Portal of the Republic of Uzbekistan provides access to over 10,000 datasets on various aspects of the country
 ---
 
 The [Open Data Portal of the Republic of Uzbekistan](https://data.egov.uz) provides over 10,000 freely downloadable datasets from more than 150 organizations on various aspects of life in Uzbekistan, including education, health, economy, population, culture, justice, and more.
