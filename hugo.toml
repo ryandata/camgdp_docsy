@@ -1,5 +1,5 @@
-baseURL = "/"
-title = "CAMGDP: Central Asia and Mongolia Gender Data Portal"
+baseURL = "https://camgdp.org/"
+title = "CAMGDP"
 
 # Language settings
 contentDir = "content/en"
